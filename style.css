@@ -1,12 +1,7 @@
-#node-table tr:nth-child(even) {background-color: rgb(10, 10, 10);}
-#node-table tr:nth-child(odd) {background-color: rgb(48, 48, 48);}
-#node-table tr:hover { background-color: orangered;}
-#node-table td { padding: 1%;}
-#node-table th { 
-    text-align: center;
-    padding: 1%;
-    margin: 0% 2%;
-    background-color: rgb(90, 90, 90);
+
+
+body{
+    background-color: rgb(61, 61, 61);
 }
 
 #node-table{
@@ -15,7 +10,32 @@
     color: rgb(230, 230, 230);
 }
 
+#node-table tr:nth-child(even) {background-color: rgb(10, 10, 10);}
+#node-table tr:nth-child(odd) {background-color: rgb(48, 48, 48);}
+
+#node-table td { padding: 1%;}
+#node-table th { 
+    text-align: center;
+    padding: 1%;
+    margin: 0% 2%;
+    background-color: rgb(90, 90, 90);
+}
+
+.node-ID{
+    display: none;
+}
+.item-ID{
+    display:none;
+}
+
+#navbar{
+    background-color: red;
+    position: sticky;
+}
+
 .saved-node{
+    color: aliceblue;
+    background-color: rgb(36, 36, 36);
     border: 2px black solid;
     border-radius: 2%;
     margin: 4rem;
@@ -42,6 +62,12 @@
     padding: 1rem 0%;
 }
 
+/* Higlightled row */
+#node-table tr:hover { background-color: rgb(18, 105, 0);}
+
+.highlighted {
+    background-color: rgb(12, 75, 0) !important;
+}
 
 /* Table Column styling */
 #node-table .item-name {

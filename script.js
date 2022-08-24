@@ -22,13 +22,11 @@ function showTime() {
     d.setTime(global.eorzeaTime);
     var eTime = document.getElementById('e-time');
     var hours = d.getUTCHours();
-    var ampm = hours > 11 ? "PM" : "AM";
-    if (hours > 12)
-        hours -= 12;
+
     hours = padLeft(hours);
     var minutes = d.getUTCMinutes();
     minutes = padLeft(minutes);
-    eTime.innerHTML = hours + ":" + minutes + " " + ampm;
+    eTime.innerHTML = hours + ":" + minutes;
 }
 function padLeft(val) {
     var str = "" + val;
@@ -61,7 +59,7 @@ $(document).ready(function () {
             for (let i = 0; i < value.itemIds.length; i++) {
                 var selectedItem = filterById(item['items'], value.itemIds[i])
 
-                entry += '<tr>'
+                entry += '<tr class="node-data-row">'
                 entry += '<td class="type">' +
                     value.type + '</td>'
 
@@ -100,7 +98,10 @@ $(document).ready(function () {
         });
 
         $('#node-table').append(entry)
-        tableColourUpdate()
+
+        tableColourSet()
+        updateSavedColour()
+        console.log("loaded");
     })
 })
 
@@ -126,8 +127,11 @@ $(document).ready(function () {
         entry += '<div class="saved-node">'
         entry += `<div class="node-name"> Name: ${element.item.name} </div>`
         entry += `<div class="node-level"> Level: ${element.item.level} </div>`
-        entry += `<div class="node-description"> Description: ${element.item.description} </div>`
-        entry += `<div class="node-time"> Time: ${element.node.startTime} - ${element.node.endTime}</div>`
+        entry += `<div class="node-time">  Time: <span class="node-start-time">${element.node.startTime}</span> - <span class="node-end-time">${element.node.endTime}</span></div>`
+        entry += `<div class="node-location"> Location: ${element.node.zone} || Position: X:${element.node.position.x} Y:${element.node.position.y}</div>`
+        entry += `<div class="node-location"> Closest: ${element.node.teleport}</div>`
+        entry += `<div class="node-ID">${element.node.id}</div>`
+        entry += `<div class="item-ID">${element.item.id}</div>`
         entry += '</div>'
     }
 
@@ -144,6 +148,7 @@ $('#node-table').on('click', function (e) {
 
     var savedItem = $(e.target).closest('tr').find(".item-ID").html();
     var savedNode = $(e.target).closest('tr').find(".node-ID").html();
+    $(e.target).closest('tr').toggleClass("highlighted")
 
     var selectedItem
     var selectedNode
@@ -186,7 +191,7 @@ function saveData(item, node) {
         var exists = false
         for (let i = 0; i < itemList.length; i++) {
             const element = itemList[i];
-            if (element.item.id == trackedItems.item.id) {
+            if (element.item.id == trackedItems.item.id && element.node.id == trackedItems.node.id) {
                 exists = true
             }
         }
@@ -198,6 +203,7 @@ function saveData(item, node) {
                     index = i
                 }
             }
+
             itemList.splice(index, 1)
 
             window.localStorage.setItem('trackedItem', JSON.stringify(itemList));
@@ -208,7 +214,7 @@ function saveData(item, node) {
 
     }
     updateCount()
-    tableColourUpdate()
+
 }
 
 
@@ -217,7 +223,7 @@ $(document).ready(function () {
     $("#node-search").on("keyup", function () {
         var value = $(this).val().toLowerCase();
         $("#node-table>tr").filter(function () {
-            $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            $(this).toggle($(this.children[1]).text().toLowerCase().indexOf(value) > -1)
         });
     });
 });
@@ -265,25 +271,45 @@ function getNodeIDList() {
 }
 
 
-// Updating Colour if row is saved
-function tableColourUpdate() {
+// Setting Colour if row is saved
+function tableColourSet() {
     var currentItemList = getItemIDList()
     var currentNodeList = getNodeIDList()
     $("#node-table > tr").each(function () {
         if (currentItemList.includes($(this).find(".item-ID").html())) {
             if (currentNodeList.includes($(this).find(".node-ID").html())) {
-                console.log("saved");
-                $(this).toggleClass(
-                    $(this).css("background-color", "red")
-                )
-
+                $(this).toggleClass("highlighted")
             }
         }
+    });
+}
 
+// Saved Node Highlight if time is right
+
+
+function updateSavedColour() {
+    var startTime
+    var endTime
+    var eorzeaTime = Number($('#e-time').html().replace(':', ''))
+    console.log("hi");
+    $(".saved-node").each(function () {
+        startTime = Number($(this).find(".node-start-time").html().replace(':', ''))
+        endTime = Number($(this).find(".node-end-time").html().replace(':', ''))
+        if (eorzeaTime >= startTime && eorzeaTime <= endTime) {
+            $(this).addClass("highlighted")
+        } else {
+            $(this).removeClass("highlighted")
+        }
 
     });
 }
 
-$("#node-table>tr").click(function () {
-    console.log("this");
-});
+setInterval(updateSavedColour, 2916);
+
+// Display Item Infomation when clicking on grid
+
+$('#saved-node-container').on('click', function (e) {
+    console.log($(e.target).closest('.saved-node').find(".node-ID").html());
+    console.log($(e.target).closest('.saved-node').find(".item-ID").html());
+
+})
