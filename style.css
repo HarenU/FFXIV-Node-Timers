@@ -1,0 +1,73 @@
+#node-table tr:nth-child(even) {background-color: rgb(10, 10, 10);}
+#node-table tr:nth-child(odd) {background-color: rgb(48, 48, 48);}
+#node-table tr:hover { background-color: orangered;}
+#node-table td { padding: 1%;}
+#node-table th { 
+    text-align: center;
+    padding: 1%;
+    margin: 0% 2%;
+    background-color: rgb(90, 90, 90);
+}
+
+#node-table{
+    border-collapse: collapse;
+    text-align: center;
+    color: rgb(230, 230, 230);
+}
+
+.saved-node{
+    border: 2px black solid;
+    border-radius: 2%;
+    margin: 4rem;
+    padding: 2rem;
+}
+
+#saved-node-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+#node-table-container{
+    display: flex;
+    justify-content: center;
+}
+
+#node-table .type {
+    width: 5rem;
+}
+
+#search-container {
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0%;
+}
+
+
+/* Table Column styling */
+#node-table .item-name {
+    width: 25rem;
+}
+
+#node-table .item-level {
+    width: 5rem;
+}
+
+#node-table .start-time {
+    width: 5rem;
+}
+
+#node-table .end-time {
+    width: 5rem;
+}
+
+#node-table .zone {
+    width: 15rem;
+}
+
+#node-table .teleport {
+    width: 25rem;
+}
+
+#node-table .position {
+    width: 7rem;
+}

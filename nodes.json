@@ -1,0 +1,5968 @@
+{
+    "nodes": [
+      {
+        "id": "1",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Coerthas Central Highlands",
+        "zoneFr": "Hautes terres du Coerthas central",
+        "zoneDe": "Zentrales Hochland von Coerthas",
+        "teleport": "Camp Dragonhead",
+        "teleportFr": "Camp De La Tête Du Dragon",
+        "teleportDe": "Camp Drachenkopf",
+        "position": {
+          "x": 27,
+          "y": 19
+        },
+        "startTime": "1:00",
+        "endTime": "4:00",
+        "itemIds": ["1"]
+      },
+      {
+        "id": "2",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Eastern La Noscea",
+        "zoneFr": "Noscea orientale",
+        "zoneDe": "östliches La Noscea",
+        "teleport": "Wineport",
+        "teleportFr": "Port-aux-Vins",
+        "teleportDe": "Weinhafen",
+        "position": {
+          "x": 17,
+          "y": 26
+        },
+        "startTime": "1:00",
+        "endTime": "4:00",
+        "itemIds": ["2"]
+      },
+      {
+        "id": "3",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Eastern Thanalan",
+        "zoneFr": "Thanalan oriental",
+        "zoneDe": "östliches Thanalan",
+        "teleport": "Camp Drybone",
+        "teleportFr": "Camp Des Os Desséchés",
+        "teleportDe": "Camp Knochenbleich",
+        "position": {
+          "x": 26,
+          "y": 19
+        },
+        "startTime": "2:00",
+        "endTime": "5:00",
+        "itemIds": ["3", "117"]
+      },
+      {
+        "id": "4",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Northern Thanalan",
+        "zoneFr": "Thanalan septentrional",
+        "zoneDe": "Nördliches Thanalan",
+        "teleport": "Ceruleum Processing Plant",
+        "teleportFr": "Usine De Céruleum",
+        "teleportDe": "Erdseim-Fabrik",
+        "position": {
+          "x": 16,
+          "y": 19
+        },
+        "startTime": "3:00",
+        "endTime": "6:00",
+        "itemIds": ["4", "5", "6"]
+      },
+      {
+        "id": "5",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Central Thanalan",
+        "zoneFr": "Thanalan central",
+        "zoneDe": "Zentrales Thanalan",
+        "teleport": "Black Brush Station",
+        "teleportFr": "Gare De Roncenoire",
+        "teleportDe": "Kohlenstaub-Bahnhof",
+        "position": {
+          "x": 24,
+          "y": 16
+        },
+        "startTime": "4:00",
+        "endTime": "7:00",
+        "itemIds": ["7", "9", "10"]
+      },
+      {
+        "id": "6",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Southern Thanalan",
+        "zoneFr": "Thanalan méridional",
+        "zoneDe": "Südliches Thanalan",
+        "teleport": "Little Ala Mhigo",
+        "teleportFr": "Petite Ala Mhigo",
+        "teleportDe": "Klein-Ala Mhigo",
+        "position": {
+          "x": 19,
+          "y": 8
+        },
+        "startTime": "4:00",
+        "endTime": "7:00",
+        "itemIds": ["8"]
+      },
+      {
+        "id": "7",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Eastern Thanalan",
+        "zoneFr": "Thanalan oriental",
+        "zoneDe": "östliches Thanalan",
+        "teleport": "Camp Drybone",
+        "teleportFr": "Camp Des Os Desséchés",
+        "teleportDe": "Camp Knochenbleich",
+        "position": {
+          "x": 24,
+          "y": 24
+        },
+        "startTime": "5:00",
+        "endTime": "8:00",
+        "itemIds": ["11"]
+      },
+      {
+        "id": "8",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Western Thanalan",
+        "zoneFr": "Thanalan occidental",
+        "zoneDe": "Westliches Thanalan",
+        "teleport": "Ul'dah - Steps Of Nald > Gate Of The Sultana",
+        "teleportFr": "Ul'dah - Faubourg De Nald > Porte De Nanamo",
+        "teleportDe": "Nald-Kreuzgang > Neues Sultana-Tor",
+        "position": "unknown",
+        "startTime": "5:00",
+        "endTime": "8:00",
+        "itemIds": ["12", "13"]
+      },
+      {
+        "id": "9",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "South Shroud",
+        "zoneFr": "Forêt du sud",
+        "zoneDe": "Südwald",
+        "teleport": "Camp Tranquil",
+        "teleportFr": "Camp Des Sentes Tranquilles",
+        "teleportDe": "Camp Seelenruhe",
+        "position": {
+          "x": 15,
+          "y": 29
+        },
+        "startTime": "6:00",
+        "endTime": "9:00",
+        "itemIds": ["14", "15", "117"]
+      },
+      {
+        "id": "10",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Eastern Thanalan",
+        "zoneFr": "Thanalan oriental",
+        "zoneDe": "östliches Thanalan",
+        "teleport": "Camp Drybone",
+        "teleportFr": "Camp Des Os Desséchés",
+        "teleportDe": "Camp Knochenbleich",
+        "position": {
+          "x": 28,
+          "y": 21
+        },
+        "startTime": "9:00",
+        "endTime": "12:00",
+        "itemIds": ["16", "17", "18"]
+      },
+      {
+        "id": "11",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Mor Dhona",
+        "zoneFr": "Mor Dhona",
+        "zoneDe": "Mor Dhona",
+        "teleport": "Revenant's Toll",
+        "teleportFr": "Glas Des Revenants",
+        "teleportDe": "Geisterzoll",
+        "position": {
+          "x": 28,
+          "y": 12
+        },
+        "startTime": "13:00",
+        "endTime": "16:00",
+        "itemIds": ["12", "19", "20", "21", "22", "23", "24", "25"]
+      },
+      {
+        "id": "12",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Northern Thanalan",
+        "zoneFr": "Thanalan septentrional",
+        "zoneDe": "Nördliches Thanalan",
+        "teleport": "Ceruleum Processing Plant",
+        "teleportFr": "Usine De Céruleum",
+        "teleportDe": "Erdseim-Fabrik",
+        "position": {
+          "x": 24,
+          "y": 26
+        },
+        "startTime": "17:00",
+        "endTime": "20:00",
+        "itemIds": ["26"]
+      },
+      {
+        "id": "13",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Eastern La Noscea",
+        "zoneFr": "Noscea orientale",
+        "zoneDe": "östliches La Noscea",
+        "teleport": "Wineport",
+        "teleportFr": "Port-aux-Vins",
+        "teleportDe": "Weinhafen",
+        "position": {
+          "x": 18,
+          "y": 32
+        },
+        "startTime": "17:00",
+        "endTime": "20:00",
+        "itemIds": ["27"]
+      },
+      {
+        "id": "14",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Mor Dhona",
+        "zoneFr": "Mor Dhona",
+        "zoneDe": "Mor Dhona",
+        "teleport": "Revenant's Toll",
+        "teleportFr": "Glas Des Revenants",
+        "teleportDe": "Geisterzoll",
+        "position": {
+          "x": 28,
+          "y": 12
+        },
+        "startTime": "17:00",
+        "endTime": "20:00",
+        "itemIds": ["12", "19", "20", "21", "22", "23", "24", "25"]
+      },
+      {
+        "id": "15",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Lower La Noscea",
+        "zoneFr": "Basse-Noscea",
+        "zoneDe": "Unteres La Noscea",
+        "teleport": "Limsa Lominsa Lower Decks > Tempest Gate",
+        "teleportFr": "Limsa Lominsa - L'Entrepont > Porte De La Tempête",
+        "teleportDe": "Untere Decks > Sturmtor",
+        "position": {
+          "x": 23,
+          "y": 21
+        },
+        "startTime": "18:00",
+        "endTime": "21:00",
+        "itemIds": ["28", "29"]
+      },
+      {
+        "id": "16",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Middle La Noscea",
+        "zoneFr": "Noscea centrale",
+        "zoneDe": "Zentrales La Noscea",
+        "teleport": "Limsa Lominsa Lower Decks > Zephyr Gate",
+        "teleportFr": "Limsa Lominsa - L'Entrepont > Porte Du Zéphyr",
+        "teleportDe": "Untere Decks > Zephyr-Tor",
+        "position": {
+          "x": 24,
+          "y": 27
+        },
+        "startTime": "19:00",
+        "endTime": "22:00",
+        "itemIds": ["21", "30"]
+      },
+      {
+        "id": "17",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Coerthas Central Highlands",
+        "zoneFr": "Hautes terres du Coerthas central",
+        "zoneDe": "Zentrales Hochland von Coerthas",
+        "teleport": "Camp Dragonhead",
+        "teleportFr": "Camp De La Tête Du Dragon",
+        "teleportDe": "Camp Drachenkopf",
+        "position": {
+          "x": 23,
+          "y": 23
+        },
+        "startTime": "21:00",
+        "endTime": "23:55",
+        "itemIds": ["31"]
+      },
+      {
+        "id": "18",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Mor Dhona",
+        "zoneFr": "Mor Dhona",
+        "zoneDe": "Mor Dhona",
+        "teleport": "Revenant's Toll",
+        "teleportFr": "Glas Des Revenants",
+        "teleportDe": "Geisterzoll",
+        "position": {
+          "x": 28,
+          "y": 12
+        },
+        "startTime": "21:00",
+        "endTime": "23:55",
+        "itemIds": ["12", "19", "20", "21", "22", "23", "24", "25"]
+      },
+      {
+        "id": "19",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "East Shroud",
+        "zoneFr": "Forêt de l'est",
+        "zoneDe": "Ostwald",
+        "teleport": "The Hawthorne Hut",
+        "teleportFr": "Hutte Des Hawthorne",
+        "teleportDe": "Jagdhütte Der Hawthornes",
+        "position": {
+          "x": 22,
+          "y": 26
+        },
+        "startTime": "1:00",
+        "endTime": "4:00",
+        "itemIds": ["32"]
+      },
+      {
+        "id": "20",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Mor Dhona",
+        "zoneFr": "Mor Dhona",
+        "zoneDe": "Mor Dhona",
+        "teleport": "Revenant's Toll",
+        "teleportFr": "Glas Des Revenants",
+        "teleportDe": "Geisterzoll",
+        "position": {
+          "x": 31,
+          "y": 14
+        },
+        "startTime": "1:00",
+        "endTime": "4:00",
+        "itemIds": ["12", "19", "20", "21", "22", "23", "24", "25"]
+      },
+      {
+        "id": "21",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "South Shroud",
+        "zoneFr": "Forêt du sud",
+        "zoneDe": "Südwald",
+        "teleport": "Camp Tranquil",
+        "teleportFr": "Camp Des Sentes Tranquilles",
+        "teleportDe": "Camp Seelenruhe",
+        "position": {
+          "x": 18,
+          "y": 23
+        },
+        "startTime": "2:00",
+        "endTime": "5:00",
+        "itemIds": ["33"]
+      },
+      {
+        "id": "22",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Central Shroud",
+        "zoneFr": "Forêt centrale",
+        "zoneDe": "Tiefer Wald",
+        "teleport": "Bentbranch Meadows",
+        "teleportFr": "Ranch De Brancharquée",
+        "teleportDe": "Gut Zwieselgrund",
+        "position": {
+          "x": 16,
+          "y": 20
+        },
+        "startTime": "2:00",
+        "endTime": "5:00",
+        "itemIds": ["34"]
+      },
+      {
+        "id": "23",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "North Shroud",
+        "zoneFr": "Forêt du nord",
+        "zoneDe": "Nordwald",
+        "teleport": "Fallgourd Float",
+        "teleportFr": "Radeau De La Calebasse",
+        "teleportDe": "Herbstkürbis-See",
+        "position": {
+          "x": 18,
+          "y": 26
+        },
+        "startTime": "3:00",
+        "endTime": "6:00",
+        "itemIds": ["35"]
+      },
+      {
+        "id": "24",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Middle La Noscea",
+        "zoneFr": "Noscea centrale",
+        "zoneDe": "Zentrales La Noscea",
+        "teleport": "Limsa Lominsa Lower Decks > Zephyr Gate",
+        "teleportFr": "Limsa Lominsa - L'Entrepont > Porte Du Zéphyr",
+        "teleportDe": "Untere Decks > Zephyr-Tor",
+        "position": {
+          "x": 19,
+          "y": 21
+        },
+        "startTime": "4:00",
+        "endTime": "7:00",
+        "itemIds": ["36"]
+      },
+      {
+        "id": "25",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "East Shroud",
+        "zoneFr": "Forêt de l'est",
+        "zoneDe": "Ostwald",
+        "teleport": "The Hawthorne Hut",
+        "teleportFr": "Hutte Des Hawthorne",
+        "teleportDe": "Jagdhütte Der Hawthornes",
+        "position": {
+          "x": 17,
+          "y": 19
+        },
+        "startTime": "5:00",
+        "endTime": "8:00",
+        "itemIds": ["37"]
+      },
+      {
+        "id": "26",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Eastern La Noscea",
+        "zoneFr": "Noscea orientale",
+        "zoneDe": "östliches La Noscea",
+        "teleport": "Costa Del Sol",
+        "teleportFr": "Costa Del Sol",
+        "teleportDe": "Sonnenküste",
+        "position": {
+          "x": 26,
+          "y": 32
+        },
+        "startTime": "5:00",
+        "endTime": "8:00",
+        "itemIds": ["38", "39"]
+      },
+      {
+        "id": "27",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Mor Dhona",
+        "zoneFr": "Mor Dhona",
+        "zoneDe": "Mor Dhona",
+        "teleport": "Revenant's Toll",
+        "teleportFr": "Glas Des Revenants",
+        "teleportDe": "Geisterzoll",
+        "position": {
+          "x": 31,
+          "y": 14
+        },
+        "startTime": "5:00",
+        "endTime": "8:00",
+        "itemIds": ["12", "19", "20", "21", "22", "23", "24", "25"]
+      },
+      {
+        "id": "28",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Lower La Noscea",
+        "zoneFr": "Basse-Noscea",
+        "zoneDe": "Unteres La Noscea",
+        "teleport": "Limsa Lominsa Lower Decks > Tempest Gate",
+        "teleportFr": "Limsa Lominsa - L'Entrepont > Porte De La Tempête",
+        "teleportDe": "Untere Decks > Sturmtor",
+        "position": {
+          "x": 32,
+          "y": 11
+        },
+        "startTime": "6:00",
+        "endTime": "9:00",
+        "itemIds": ["40"]
+      },
+      {
+        "id": "29",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Central Shroud",
+        "zoneFr": "Forêt centrale",
+        "zoneDe": "Tiefer Wald",
+        "teleport": "Bentbranch Meadows",
+        "teleportFr": "Ranch De Brancharquée",
+        "teleportDe": "Gut Zwieselgrund",
+        "position": {
+          "x": 30,
+          "y": 19
+        },
+        "startTime": "6:00",
+        "endTime": "9:00",
+        "itemIds": ["41"]
+      },
+      {
+        "id": "30",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Upper La Noscea",
+        "zoneFr": "Haute-Noscea",
+        "zoneDe": "Oberes La Noscea",
+        "teleport": "Camp Bronze Lake",
+        "teleportFr": "Camp Du Lac D'Airain",
+        "teleportDe": "Camp Bronzesee",
+        "position": {
+          "x": 28,
+          "y": 25
+        },
+        "startTime": "7:00",
+        "endTime": "10:00",
+        "itemIds": ["42", "43"]
+      },
+      {
+        "id": "31",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Western La Noscea",
+        "zoneFr": "Noscea occidentale",
+        "zoneDe": "Westliches La Noscea",
+        "teleport": "Swiftperch",
+        "teleportFr": "Le Martinet",
+        "teleportDe": "Tölpelturm-Siedlung",
+        "position": {
+          "x": 34,
+          "y": 28
+        },
+        "startTime": "8:00",
+        "endTime": "11:00",
+        "itemIds": ["44", "45"]
+      },
+      {
+        "id": "32",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Middle La Noscea",
+        "zoneFr": "Noscea centrale",
+        "zoneDe": "Zentrales La Noscea",
+        "teleport": "Summerford Farms",
+        "teleportFr": "Vergers D'Estival",
+        "teleportDe": "Sommerfurt-Höfe",
+        "position": {
+          "x": 19,
+          "y": 16
+        },
+        "startTime": "9:00",
+        "endTime": "12:00",
+        "itemIds": ["46"]
+      },
+      {
+        "id": "33",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Coerthas Central Highlands",
+        "zoneFr": "Hautes terres du Coerthas central",
+        "zoneDe": "Zentrales Hochland von Coerthas",
+        "teleport": "Camp Dragonhead",
+        "teleportFr": "Camp De La Tête Du Dragon",
+        "teleportDe": "Camp Drachenkopf",
+        "position": {
+          "x": 28,
+          "y": 15
+        },
+        "startTime": "9:00",
+        "endTime": "12:00",
+        "itemIds": ["47"]
+      },
+      {
+        "id": "34",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Eastern La Noscea",
+        "zoneFr": "Noscea orientale",
+        "zoneDe": "östliches La Noscea",
+        "teleport": "Costa Del Sol",
+        "teleportFr": "Costa Del Sol",
+        "teleportDe": "Sonnenküste",
+        "position": {
+          "x": 30,
+          "y": 26
+        },
+        "startTime": "9:00",
+        "endTime": "12:00",
+        "itemIds": ["48", "49"]
+      },
+      {
+        "id": "35",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Mor Dhona",
+        "zoneFr": "Mor Dhona",
+        "zoneDe": "Mor Dhona",
+        "teleport": "Revenant's Toll",
+        "teleportFr": "Glas Des Revenants",
+        "teleportDe": "Geisterzoll",
+        "position": {
+          "x": 31,
+          "y": 14
+        },
+        "startTime": "9:00",
+        "endTime": "12:00",
+        "itemIds": ["12", "19", "20", "21", "22", "23", "24", "25"]
+      },
+      {
+        "id": "36",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Central Shroud",
+        "zoneFr": "Forêt centrale",
+        "zoneDe": "Tiefer Wald",
+        "teleport": "Bentbranch Meadows",
+        "teleportFr": "Ranch De Brancharquée",
+        "teleportDe": "Gut Zwieselgrund",
+        "position": {
+          "x": 25,
+          "y": 29
+        },
+        "startTime": "10:00",
+        "endTime": "13:00",
+        "itemIds": ["50"]
+      },
+      {
+        "id": "37",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Coerthas Central Highlands",
+        "zoneFr": "Hautes terres du Coerthas central",
+        "zoneDe": "Zentrales Hochland von Coerthas",
+        "teleport": "Camp Dragonhead",
+        "teleportFr": "Camp De La Tête Du Dragon",
+        "teleportDe": "Camp Drachenkopf",
+        "position": {
+          "x": 27,
+          "y": 24
+        },
+        "startTime": "13:00",
+        "endTime": "16:00",
+        "itemIds": ["51"]
+      },
+      {
+        "id": "38",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Eastern Thanalan",
+        "zoneFr": "Thanalan oriental",
+        "zoneDe": "östliches Thanalan",
+        "teleport": "Camp Drybone",
+        "teleportFr": "Camp Des Os Desséchés",
+        "teleportDe": "Camp Knochenbleich",
+        "position": {
+          "x": 12,
+          "y": 16
+        },
+        "startTime": "13:00",
+        "endTime": "16:00",
+        "itemIds": ["52", "53"]
+      },
+      {
+        "id": "39",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Eastern La Noscea",
+        "zoneFr": "Noscea orientale",
+        "zoneDe": "östliches La Noscea",
+        "teleport": "Wineport",
+        "teleportFr": "Port-aux-Vins",
+        "teleportDe": "Weinhafen",
+        "position": {
+          "x": 18,
+          "y": 26
+        },
+        "startTime": "13:00",
+        "endTime": "16:00",
+        "itemIds": ["54", "55"]
+      },
+      {
+        "id": "40",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "East Shroud",
+        "zoneFr": "Forêt de l'est",
+        "zoneDe": "Ostwald",
+        "teleport": "The Hawthorne Hut",
+        "teleportFr": "Hutte Des Hawthorne",
+        "teleportDe": "Jagdhütte Der Hawthornes",
+        "position": {
+          "x": 22,
+          "y": 30
+        },
+        "startTime": "17:00",
+        "endTime": "20:00",
+        "itemIds": ["56"]
+      },
+      {
+        "id": "41",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Coerthas Central Highlands",
+        "zoneFr": "Hautes terres du Coerthas central",
+        "zoneDe": "Zentrales Hochland von Coerthas",
+        "teleport": "Camp Dragonhead",
+        "teleportFr": "Camp De La Tête Du Dragon",
+        "teleportDe": "Camp Drachenkopf",
+        "position": {
+          "x": 8,
+          "y": 13
+        },
+        "startTime": "17:00",
+        "endTime": "20:00",
+        "itemIds": ["57"]
+      },
+      {
+        "id": "42",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "East Shroud",
+        "zoneFr": "Forêt de l'est",
+        "zoneDe": "Ostwald",
+        "teleport": "The Hawthorne Hut",
+        "teleportFr": "Hutte Des Hawthorne",
+        "teleportDe": "Jagdhütte Der Hawthornes",
+        "position": {
+          "x": 13,
+          "y": 23
+        },
+        "startTime": "21:00",
+        "endTime": "23:55",
+        "itemIds": ["58", "59"]
+      },
+      {
+        "id": "43",
+        "type": "fishing",
+        "zone": "MISSING_DATA",
+        "zoneFr": "MISSING_DATA",
+        "zoneDe": "MISSING_DATA",
+        "teleport": "",
+        "teleportFr": "MISSING_DATA",
+        "teleportDe": "MISSING_DATA",
+        "position": "unknown",
+        "startTime": "0:00",
+        "endTime": "1:00",
+        "itemIds": ["61"]
+      },
+      {
+        "id": "44",
+        "type": "fishing",
+        "zone": "GLOBAL",
+        "zoneFr": "GLOBAL",
+        "zoneDe": "GLOBAL",
+        "teleport": "",
+        "teleportFr": "ul",
+        "teleportDe": "null",
+        "position": "unknown",
+        "startTime": "6:00",
+        "endTime": "7:00",
+        "itemIds": ["62"]
+      },
+      {
+        "id": "45",
+        "type": "fishing",
+        "zone": "Western La Noscea",
+        "zoneFr": "Noscea occidentale",
+        "zoneDe": "Westliches La Noscea",
+        "teleport": "The Brewer's Beacon",
+        "teleportFr": "Phare Des Brasseurs",
+        "teleportDe": "Leuchtturm Braubake",
+        "position": "unknown",
+        "startTime": "9:00",
+        "endTime": "14:00",
+        "itemIds": ["63"]
+      },
+      {
+        "id": "48",
+        "type": "fishing",
+        "zone": "MISSING_DATA",
+        "zoneFr": "MISSING_DATA",
+        "zoneDe": "MISSING_DATA",
+        "teleport": "Limsa Lominsa Lower Decks > Tempest Gate",
+        "teleportFr": "Limsa Lominsa - L'Entrepont > Porte De La Tempête",
+        "teleportDe": "Untere Decks > Sturmtor",
+        "position": "unknown",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "itemIds": ["64"]
+      },
+      {
+        "id": "49",
+        "type": "fishing",
+        "zone": "GLOBAL",
+        "zoneFr": "GLOBAL",
+        "zoneDe": "GLOBAL",
+        "teleport": "",
+        "teleportFr": "ul",
+        "teleportDe": "null",
+        "position": "unknown",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "itemIds": ["65"]
+      },
+      {
+        "id": "50",
+        "type": "fishing",
+        "zone": "MISSING_DATA",
+        "zoneFr": "MISSING_DATA",
+        "zoneDe": "MISSING_DATA",
+        "teleport": "Bronze Lake Shallows",
+        "teleportFr": "Bas-fonds Du Lac D'Airain",
+        "teleportDe": "Bronzesee-Untiefen",
+        "position": "unknown",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "itemIds": ["66"]
+      },
+      {
+        "id": "51",
+        "type": "fishing",
+        "zone": "Eastern La Noscea",
+        "zoneFr": "Noscea orientale",
+        "zoneDe": "östliches La Noscea",
+        "teleport": "Costa Del Sol",
+        "teleportFr": "Costa Del Sol",
+        "teleportDe": "Sonnenküste",
+        "position": "unknown",
+        "startTime": "23:00",
+        "endTime": "2:00",
+        "itemIds": ["67"]
+      },
+      {
+        "id": "52",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Churning Mists",
+        "zoneFr": "L'Écume des cieux de Dravania",
+        "zoneDe": "Wallende Nebel",
+        "teleport": "Moghome",
+        "teleportFr": "Nid-Mog",
+        "teleportDe": "Moglingen",
+        "position": {
+          "x": 35,
+          "y": 21
+        },
+        "startTime": "6:00",
+        "endTime": "7:55",
+        "itemIds": ["68", "69"]
+      },
+      {
+        "id": "53",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Churning Mists",
+        "zoneFr": "L'Écume des cieux de Dravania",
+        "zoneDe": "Wallende Nebel",
+        "teleport": "Moghome",
+        "teleportFr": "Nid-Mog",
+        "teleportDe": "Moglingen",
+        "position": {
+          "x": 35,
+          "y": 21
+        },
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "itemIds": ["68", "69"]
+      },
+      {
+        "id": "54",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Dravanian Hinterlands",
+        "zoneFr": "Arrière-pays dravanien",
+        "zoneDe": "Dravanisches Hinterland",
+        "teleport": "Anyx Trine > The Dravanian Hinterlands",
+        "teleportFr": "Annexe Trine > Arrière-pays Dravanien",
+        "teleportDe": "Trinär-Annex > Dravanisches Hinterland",
+        "position": {
+          "x": 36,
+          "y": 30
+        },
+        "startTime": "2:00",
+        "endTime": "3:55",
+        "itemIds": ["70", "71"]
+      },
+      {
+        "id": "55",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Dravanian Hinterlands",
+        "zoneFr": "Arrière-pays dravanien",
+        "zoneDe": "Dravanisches Hinterland",
+        "teleport": "Anyx Trine > The Dravanian Hinterlands",
+        "teleportFr": "Annexe Trine > Arrière-pays Dravanien",
+        "teleportDe": "Trinär-Annex > Dravanisches Hinterland",
+        "position": {
+          "x": 36,
+          "y": 30
+        },
+        "startTime": "14:00",
+        "endTime": "15:55",
+        "itemIds": ["70", "71"]
+      },
+      {
+        "id": "56",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Hautes terres du Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "Falcon's Nest",
+        "teleportFr": "Nid Du Faucon",
+        "teleportDe": "Falkenhorst",
+        "position": {
+          "x": 37,
+          "y": 16
+        },
+        "startTime": "0:00",
+        "endTime": "1:55",
+        "itemIds": ["72", "77"]
+      },
+      {
+        "id": "57",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Churning Mists",
+        "zoneFr": "L'Écume des cieux de Dravania",
+        "zoneDe": "Wallende Nebel",
+        "teleport": "Zenith",
+        "teleportFr": "Zénith",
+        "teleportDe": "Kreidetempel",
+        "position": {
+          "x": 8,
+          "y": 33
+        },
+        "startTime": "2:00",
+        "endTime": "3:55",
+        "itemIds": ["73"]
+      },
+      {
+        "id": "58",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Sea of Clouds",
+        "zoneFr": "L'Écume des cieux d'Abalathia",
+        "zoneDe": "Abalathisches Wolkenmeer",
+        "teleport": "Camp Cloudtop > Camp Cloudtop",
+        "teleportFr": "Camp De Cime-des-nuages > Camp De Cime-des-nuages",
+        "teleportDe": "Camp Wolkenwipfel > Camp Wolkenwipfel",
+        "position": {
+          "x": 34,
+          "y": 37
+        },
+        "startTime": "4:00",
+        "endTime": "5:55",
+        "itemIds": ["74"]
+      },
+      {
+        "id": "59",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Dravanian Hinterlands",
+        "zoneFr": "Arrière-pays dravanien",
+        "zoneDe": "Dravanisches Hinterland",
+        "teleport": "Idyllshire",
+        "teleportFr": "Idyllée",
+        "teleportDe": "Frohehalde",
+        "position": {
+          "x": 11,
+          "y": 16
+        },
+        "startTime": "6:00",
+        "endTime": "7:55",
+        "itemIds": ["75"]
+      },
+      {
+        "id": "60",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Azys Lla",
+        "zoneFr": "Azys Lla",
+        "zoneDe": "Azys Lla",
+        "teleport": "Helix",
+        "teleportFr": "Hélice",
+        "teleportDe": "Helix",
+        "position": {
+          "x": 35,
+          "y": 14
+        },
+        "startTime": "10:00",
+        "endTime": "11:55",
+        "itemIds": ["76"]
+      },
+      {
+        "id": "62",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "Dravanisches Vorland",
+        "teleport": "Anyx Trine",
+        "teleportFr": "Annexe Trine",
+        "teleportDe": "Trinär-Annex",
+        "position": {
+          "x": 28,
+          "y": 18
+        },
+        "startTime": "8:00",
+        "endTime": "9:55",
+        "itemIds": ["78", "79", "80"]
+      },
+      {
+        "id": "63",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "Dravanisches Vorland",
+        "teleport": "Anyx Trine",
+        "teleportFr": "Annexe Trine",
+        "teleportDe": "Trinär-Annex",
+        "position": {
+          "x": 28,
+          "y": 18
+        },
+        "startTime": "20:00",
+        "endTime": "21:55",
+        "itemIds": ["78", "79", "80"]
+      },
+      {
+        "id": "64",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Azys Lla",
+        "zoneFr": "Azys Lla",
+        "zoneDe": "Azys Lla",
+        "teleport": "Helix",
+        "teleportFr": "Hélice",
+        "teleportDe": "Helix",
+        "position": {
+          "x": 23,
+          "y": 5
+        },
+        "startTime": "0:00",
+        "endTime": "1:55",
+        "itemIds": ["81"]
+      },
+      {
+        "id": "65",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Azys Lla",
+        "zoneFr": "Azys Lla",
+        "zoneDe": "Azys Lla",
+        "teleport": "Helix",
+        "teleportFr": "Hélice",
+        "teleportDe": "Helix",
+        "position": {
+          "x": 23,
+          "y": 5
+        },
+        "startTime": "12:00",
+        "endTime": "13:55",
+        "itemIds": ["81"]
+      },
+      {
+        "id": "66",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Hautes terres du Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "Falcon's Nest",
+        "teleportFr": "Nid Du Faucon",
+        "teleportDe": "Falkenhorst",
+        "position": {
+          "x": 31,
+          "y": 22
+        },
+        "startTime": "4:00",
+        "endTime": "5:55",
+        "itemIds": ["82", "117"]
+      },
+      {
+        "id": "67",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Hautes terres du Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "Falcon's Nest",
+        "teleportFr": "Nid Du Faucon",
+        "teleportDe": "Falkenhorst",
+        "position": {
+          "x": 31,
+          "y": 22
+        },
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "itemIds": ["82", "117"]
+      },
+      {
+        "id": "68",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Sea of Clouds",
+        "zoneFr": "L'Écume des cieux d'Abalathia",
+        "zoneDe": "Abalathisches Wolkenmeer",
+        "teleport": "Ok' Zundu",
+        "teleportFr": "Ok' Zundu",
+        "teleportDe": "Ok' Zundo",
+        "position": {
+          "x": 7,
+          "y": 7
+        },
+        "startTime": "10:00",
+        "endTime": "11:55",
+        "itemIds": ["83", "84"]
+      },
+      {
+        "id": "69",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Sea of Clouds",
+        "zoneFr": "L'Écume des cieux d'Abalathia",
+        "zoneDe": "Abalathisches Wolkenmeer",
+        "teleport": "Ok' Zundu",
+        "teleportFr": "Ok' Zundu",
+        "teleportDe": "Ok' Zundo",
+        "position": {
+          "x": 7,
+          "y": 7
+        },
+        "startTime": "22:00",
+        "endTime": "23:55",
+        "itemIds": ["83", "84"]
+      },
+      {
+        "id": "70",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "Dravanisches Vorland",
+        "teleport": "Tailfeather",
+        "teleportFr": "La Penne",
+        "teleportDe": "Fiederhag",
+        "position": {
+          "x": 26,
+          "y": 13
+        },
+        "startTime": "2:00",
+        "endTime": "3:55",
+        "itemIds": ["85", "86", "117"]
+      },
+      {
+        "id": "71",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "Dravanisches Vorland",
+        "teleport": "Tailfeather",
+        "teleportFr": "La Penne",
+        "teleportDe": "Fiederhag",
+        "position": {
+          "x": 26,
+          "y": 13
+        },
+        "startTime": "14:00",
+        "endTime": "15:55",
+        "itemIds": ["85", "86", "117"]
+      },
+      {
+        "id": "72",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Churning Mists",
+        "zoneFr": "L'Écume des cieux de Dravania",
+        "zoneDe": "Wallende Nebel",
+        "teleport": "Moghome",
+        "teleportFr": "Nid-Mog",
+        "teleportDe": "Moglingen",
+        "position": {
+          "x": 17,
+          "y": 36
+        },
+        "startTime": "4:00",
+        "endTime": "5:55",
+        "itemIds": ["87"]
+      },
+      {
+        "id": "73",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Sea of Clouds",
+        "zoneFr": "L'Écume des cieux d'Abalathia",
+        "zoneDe": "Abalathisches Wolkenmeer",
+        "teleport": "Ok' Zundu",
+        "teleportFr": "Ok' Zundu",
+        "teleportDe": "Ok' Zundo",
+        "position": {
+          "x": 21,
+          "y": 7
+        },
+        "startTime": "0:00",
+        "endTime": "1:55",
+        "itemIds": ["88"]
+      },
+      {
+        "id": "74",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Hautes terres du Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "Falcon's Nest",
+        "teleportFr": "Nid Du Faucon",
+        "teleportDe": "Falkenhorst",
+        "position": {
+          "x": 23,
+          "y": 21
+        },
+        "startTime": "6:00",
+        "endTime": "7:55",
+        "itemIds": ["89"]
+      },
+      {
+        "id": "75",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Dravanian Hinterlands",
+        "zoneFr": "Arrière-pays dravanien",
+        "zoneDe": "Dravanisches Hinterland",
+        "teleport": "Anyx Trine > The Dravanian Hinterlands",
+        "teleportFr": "Annexe Trine > Arrière-pays Dravanien",
+        "teleportDe": "Trinär-Annex > Dravanisches Hinterland",
+        "position": {
+          "x": 39,
+          "y": 26
+        },
+        "startTime": "10:00",
+        "endTime": "11:55",
+        "itemIds": ["90"]
+      },
+      {
+        "id": "76",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Hautes terres du Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "Falcon's Nest > Coerthas Western Highlands",
+        "teleportFr": "Nid Du Faucon > Hautes Terres Du Coerthas Occidental",
+        "teleportDe": "Falkenhorst > Westliches Hochland Von Coerthas",
+        "position": {
+          "x": 25,
+          "y": 32
+        },
+        "startTime": "6:00",
+        "endTime": "7:55",
+        "itemIds": ["91"]
+      },
+      {
+        "id": "77",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Azys Lla",
+        "zoneFr": "Azys Lla",
+        "zoneDe": "Azys Lla",
+        "teleport": "Helix",
+        "teleportFr": "Hélice",
+        "teleportDe": "Helix",
+        "position": {
+          "x": 22,
+          "y": 10
+        },
+        "startTime": "2:00",
+        "endTime": "3:55",
+        "itemIds": ["92"]
+      },
+      {
+        "id": "78",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Hautes terres du Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "Tailfeather > Coerthas Western Highlands",
+        "teleportFr": "La Penne > Hautes Terres Du Coerthas Occidental",
+        "teleportDe": "Fiederhag > Westliches Hochland Von Coerthas",
+        "position": {
+          "x": 9,
+          "y": 10
+        },
+        "startTime": "8:00",
+        "endTime": "9:55",
+        "itemIds": ["93"]
+      },
+      {
+        "id": "79",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Hautes terres du Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "Tailfeather > Coerthas Western Highlands",
+        "teleportFr": "La Penne > Hautes Terres Du Coerthas Occidental",
+        "teleportDe": "Fiederhag > Westliches Hochland Von Coerthas",
+        "position": {
+          "x": 8,
+          "y": 10
+        },
+        "startTime": "20:00",
+        "endTime": "21:55",
+        "itemIds": ["93"]
+      },
+      {
+        "id": "80",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Hautes terres du Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "Falcon's Nest",
+        "teleportFr": "Nid Du Faucon",
+        "teleportDe": "Falkenhorst",
+        "position": {
+          "x": 30,
+          "y": 19
+        },
+        "startTime": "10:00",
+        "endTime": "11:55",
+        "itemIds": ["94", "95", "96", "97", "98"]
+      },
+      {
+        "id": "81",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Hautes terres du Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "Falcon's Nest",
+        "teleportFr": "Nid Du Faucon",
+        "teleportDe": "Falkenhorst",
+        "position": {
+          "x": 30,
+          "y": 19
+        },
+        "startTime": "22:00",
+        "endTime": "23:55",
+        "itemIds": ["94", "95", "96", "97", "98"]
+      },
+      {
+        "id": "82",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Sea of Clouds",
+        "zoneFr": "L'Écume des cieux d'Abalathia",
+        "zoneDe": "Abalathisches Wolkenmeer",
+        "teleport": "Camp Cloudtop",
+        "teleportFr": "Camp De Cime-des-nuages",
+        "teleportDe": "Camp Wolkenwipfel",
+        "position": {
+          "x": 33,
+          "y": 23
+        },
+        "startTime": "6:00",
+        "endTime": "7:55",
+        "itemIds": ["99", "100"]
+      },
+      {
+        "id": "83",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Sea of Clouds",
+        "zoneFr": "L'Écume des cieux d'Abalathia",
+        "zoneDe": "Abalathisches Wolkenmeer",
+        "teleport": "Camp Cloudtop",
+        "teleportFr": "Camp De Cime-des-nuages",
+        "teleportDe": "Camp Wolkenwipfel",
+        "position": {
+          "x": 33,
+          "y": 23
+        },
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "itemIds": ["99", "100"]
+      },
+      {
+        "id": "84",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Churning Mists",
+        "zoneFr": "L'Écume des cieux de Dravania",
+        "zoneDe": "Wallende Nebel",
+        "teleport": "Zenith",
+        "teleportFr": "Zénith",
+        "teleportDe": "Kreidetempel",
+        "position": {
+          "x": 26,
+          "y": 9
+        },
+        "startTime": "0:00",
+        "endTime": "1:55",
+        "itemIds": ["101", "102"]
+      },
+      {
+        "id": "85",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Churning Mists",
+        "zoneFr": "L'Écume des cieux de Dravania",
+        "zoneDe": "Wallende Nebel",
+        "teleport": "Zenith",
+        "teleportFr": "Zénith",
+        "teleportDe": "Kreidetempel",
+        "position": {
+          "x": 26,
+          "y": 9
+        },
+        "startTime": "12:00",
+        "endTime": "13:55",
+        "itemIds": ["101", "102"]
+      },
+      {
+        "id": "86",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Dravanian Hinterlands",
+        "zoneFr": "Arrière-pays dravanien",
+        "zoneDe": "Dravanisches Hinterland",
+        "teleport": "Idyllshire > The Dravanian Hinterlands",
+        "teleportFr": "Idyllée > Arrière-pays Dravanien",
+        "teleportDe": "Frohehalde > Dravanisches Hinterland",
+        "position": {
+          "x": 14,
+          "y": 36
+        },
+        "startTime": "4:00",
+        "endTime": "5:55",
+        "itemIds": ["103", "105"]
+      },
+      {
+        "id": "87",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Dravanian Hinterlands",
+        "zoneFr": "Arrière-pays dravanien",
+        "zoneDe": "Dravanisches Hinterland",
+        "teleport": "Idyllshire > The Dravanian Hinterlands",
+        "teleportFr": "Idyllée > Arrière-pays Dravanien",
+        "teleportDe": "Frohehalde > Dravanisches Hinterland",
+        "position": {
+          "x": 14,
+          "y": 36
+        },
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "itemIds": ["103", "105"]
+      },
+      {
+        "id": "88",
+        "type": "fishing",
+        "zone": "The Churning Mists",
+        "zoneFr": "L'Écume des cieux de Dravania",
+        "zoneDe": "Wallende Nebel",
+        "teleport": "Moghome",
+        "teleportFr": "Nid-Mog",
+        "teleportDe": "Moglingen",
+        "position": {
+          "x": 20,
+          "y": 40
+        },
+        "startTime": "9:00",
+        "endTime": "17:00",
+        "itemIds": ["106"]
+      },
+      {
+        "id": "89",
+        "type": "mining",
+        "subType": "ephemeral",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Hautes terres du Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "Falcon's Nest",
+        "teleportFr": "Nid Du Faucon",
+        "teleportDe": "Falkenhorst",
+        "position": {
+          "x": 21,
+          "y": 28
+        },
+        "startTime": "20:00",
+        "endTime": "23:55",
+        "itemIds": ["107"]
+      },
+      {
+        "id": "90",
+        "type": "mining",
+        "subType": "ephemeral",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "Dravanisches Vorland",
+        "teleport": "Anyx Trine",
+        "teleportFr": "Annexe Trine",
+        "teleportDe": "Trinär-Annex",
+        "position": {
+          "x": 17,
+          "y": 27
+        },
+        "startTime": "4:00",
+        "endTime": "8:00",
+        "itemIds": ["108"]
+      },
+      {
+        "id": "91",
+        "type": "mining",
+        "subType": "ephemeral",
+        "zone": "The Dravanian Hinterlands",
+        "zoneFr": "Arrière-pays dravanien",
+        "zoneDe": "Dravanisches Hinterland",
+        "teleport": "Idyllshire",
+        "teleportFr": "Idyllée",
+        "teleportDe": "Frohehalde",
+        "position": {
+          "x": 26,
+          "y": 24
+        },
+        "startTime": "8:00",
+        "endTime": "12:00",
+        "itemIds": ["109"]
+      },
+      {
+        "id": "92",
+        "type": "mining",
+        "subType": "ephemeral",
+        "zone": "The Churning Mists",
+        "zoneFr": "L'Écume des cieux de Dravania",
+        "zoneDe": "Wallende Nebel",
+        "teleport": "Moghome",
+        "teleportFr": "Nid-Mog",
+        "teleportDe": "Moglingen",
+        "position": {
+          "x": 29,
+          "y": 19
+        },
+        "startTime": "12:00",
+        "endTime": "16:00",
+        "itemIds": ["110"]
+      },
+      {
+        "id": "93",
+        "type": "mining",
+        "subType": "ephemeral",
+        "zone": "The Sea of Clouds",
+        "zoneFr": "L'Écume des cieux d'Abalathia",
+        "zoneDe": "Abalathisches Wolkenmeer",
+        "teleport": "Camp Cloudtop",
+        "teleportFr": "Camp De Cime-des-nuages",
+        "teleportDe": "Camp Wolkenwipfel",
+        "position": {
+          "x": 34,
+          "y": 30
+        },
+        "startTime": "16:00",
+        "endTime": "20:00",
+        "itemIds": ["111"]
+      },
+      {
+        "id": "94",
+        "type": "botany",
+        "subType": "ephemeral",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Hautes terres du Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "Falcon's Nest",
+        "teleportFr": "Nid Du Faucon",
+        "teleportDe": "Falkenhorst",
+        "position": {
+          "x": 11,
+          "y": 14
+        },
+        "startTime": "0:00",
+        "endTime": "4:00",
+        "itemIds": ["112"]
+      },
+      {
+        "id": "95",
+        "type": "botany",
+        "subType": "ephemeral",
+        "zone": "The Dravanian Hinterlands",
+        "zoneFr": "Arrière-pays dravanien",
+        "zoneDe": "Dravanisches Hinterland",
+        "teleport": "Idyllshire",
+        "teleportFr": "Idyllée",
+        "teleportDe": "Frohehalde",
+        "position": {
+          "x": 13,
+          "y": 19
+        },
+        "startTime": "4:00",
+        "endTime": "8:00",
+        "itemIds": ["113"]
+      },
+      {
+        "id": "96",
+        "type": "botany",
+        "subType": "ephemeral",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "Dravanisches Vorland",
+        "teleport": "Anyx Trine",
+        "teleportFr": "Annexe Trine",
+        "teleportDe": "Trinär-Annex",
+        "position": {
+          "x": 10,
+          "y": 32
+        },
+        "startTime": "8:00",
+        "endTime": "12:00",
+        "itemIds": ["114"]
+      },
+      {
+        "id": "97",
+        "type": "botany",
+        "subType": "ephemeral",
+        "zone": "The Churning Mists",
+        "zoneFr": "L'Écume des cieux de Dravania",
+        "zoneDe": "Wallende Nebel",
+        "teleport": "Zenith",
+        "teleportFr": "Zénith",
+        "teleportDe": "Kreidetempel",
+        "position": {
+          "x": 19,
+          "y": 29
+        },
+        "startTime": "16:00",
+        "endTime": "20:00",
+        "itemIds": ["115"]
+      },
+      {
+        "id": "98",
+        "type": "botany",
+        "subType": "ephemeral",
+        "zone": "The Sea of Clouds",
+        "zoneFr": "L'Écume des cieux d'Abalathia",
+        "zoneDe": "Abalathisches Wolkenmeer",
+        "teleport": "Camp Cloudtop",
+        "teleportFr": "Camp De Cime-des-nuages",
+        "teleportDe": "Camp Wolkenwipfel",
+        "position": {
+          "x": 26,
+          "y": 35
+        },
+        "startTime": "20:00",
+        "endTime": "23:55",
+        "itemIds": ["116"]
+      },
+      {
+        "id": "100",
+        "type": "fishing",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "Dravanisches Vorland",
+        "teleport": "Tailfeather",
+        "teleportFr": "La Penne",
+        "teleportDe": "Fiederhag",
+        "position": "unknown",
+        "startTime": "22:00",
+        "endTime": "3:00",
+        "itemIds": ["118"]
+      },
+      {
+        "id": "101",
+        "type": "fishing",
+        "zone": "Azys Lla",
+        "zoneFr": "Azys Lla",
+        "zoneDe": "Azys Lla",
+        "teleport": "Helix",
+        "teleportFr": "Hélice",
+        "teleportDe": "Helix",
+        "position": "unknown",
+        "startTime": "21:00",
+        "endTime": "23:55",
+        "itemIds": ["119"]
+      },
+      {
+        "id": "102",
+        "type": "fishing",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "Dravanisches Vorland",
+        "teleport": "Tailfeather",
+        "teleportFr": "La Penne",
+        "teleportDe": "Fiederhag",
+        "position": "unknown",
+        "startTime": "18:00",
+        "endTime": "20:30",
+        "itemIds": ["120"]
+      },
+      {
+        "id": "103",
+        "type": "fishing",
+        "zone": "The Sea of Clouds",
+        "zoneFr": "L'Écume des cieux d'Abalathia",
+        "zoneDe": "Abalathisches Wolkenmeer",
+        "teleport": "Voor Sian Siran",
+        "teleportFr": "Voor Sian Siran",
+        "teleportDe": "Voor Sian Siran",
+        "position": "unknown",
+        "startTime": "18:00",
+        "endTime": "20:30",
+        "itemIds": ["120"]
+      },
+      {
+        "id": "104",
+        "type": "fishing",
+        "zone": "Lower La Noscea",
+        "zoneFr": "Basse-Noscea",
+        "zoneDe": "Unteres La Noscea",
+        "teleport": "Moraby Drydocks",
+        "teleportFr": "Chantier Naval De Moraby",
+        "teleportDe": "Moraby-Trockendocks",
+        "position": "unknown",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "itemIds": ["121"]
+      },
+      {
+        "id": "105",
+        "type": "fishing",
+        "zone": "GLOBAL",
+        "zoneFr": "GLOBAL",
+        "zoneDe": "GLOBAL",
+        "teleport": "",
+        "teleportFr": "ul",
+        "teleportDe": "null",
+        "position": "unknown",
+        "startTime": "0:00",
+        "endTime": "8:00",
+        "itemIds": ["122"]
+      },
+      {
+        "id": "106",
+        "type": "fishing",
+        "zone": "GLOBAL",
+        "zoneFr": "GLOBAL",
+        "zoneDe": "GLOBAL",
+        "teleport": "",
+        "teleportFr": "ul",
+        "teleportDe": "null",
+        "position": "unknown",
+        "startTime": "8:00",
+        "endTime": "16:00",
+        "itemIds": ["122"]
+      },
+      {
+        "id": "107",
+        "type": "fishing",
+        "zone": "GLOBAL",
+        "zoneFr": "GLOBAL",
+        "zoneDe": "GLOBAL",
+        "teleport": "",
+        "teleportFr": "ul",
+        "teleportDe": "null",
+        "position": "unknown",
+        "startTime": "16:00",
+        "endTime": "23:55",
+        "itemIds": ["122"]
+      },
+      {
+        "id": "108",
+        "type": "botany",
+        "subType": "ephemeral",
+        "zone": "The Sea of Clouds",
+        "zoneFr": "L'Écume des cieux d'Abalathia",
+        "zoneDe": "Abalathisches Wolkenmeer",
+        "teleport": "Camp Cloudtop",
+        "teleportFr": "Camp De Cime-des-nuages",
+        "teleportDe": "Camp Wolkenwipfel",
+        "position": {
+          "x": 23,
+          "y": 12
+        },
+        "startTime": "20:00",
+        "endTime": "23:55",
+        "itemIds": ["123"]
+      },
+      {
+        "id": "109",
+        "type": "fishing",
+        "zone": "Azys Lla",
+        "zoneFr": "Azys Lla",
+        "zoneDe": "Azys Lla",
+        "teleport": "Helix",
+        "teleportFr": "Hélice",
+        "teleportDe": "Helix",
+        "position": "unknown",
+        "startTime": "15:00",
+        "endTime": "18:00",
+        "itemIds": ["124"]
+      },
+      {
+        "id": "110",
+        "type": "fishing",
+        "zone": "The Churning Mists",
+        "zoneFr": "L'Écume des cieux de Dravania",
+        "zoneDe": "Wallende Nebel",
+        "teleport": "Zenith",
+        "teleportFr": "Zénith",
+        "teleportDe": "Kreidetempel",
+        "position": "unknown",
+        "startTime": "10:00",
+        "endTime": "14:00",
+        "itemIds": ["126"]
+      },
+      {
+        "id": "111",
+        "type": "fishing",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "Dravanisches Vorland",
+        "teleport": "Anyx Trine",
+        "teleportFr": "Annexe Trine",
+        "teleportDe": "Trinär-Annex",
+        "position": "unknown",
+        "startTime": "0:00",
+        "endTime": "6:00",
+        "itemIds": ["125"]
+      },
+      {
+        "id": "112",
+        "type": "fishing",
+        "zone": "The Dravanian Hinterlands",
+        "zoneFr": "Arrière-pays dravanien",
+        "zoneDe": "Dravanisches Hinterland",
+        "teleport": "Idyllshire",
+        "teleportFr": "Idyllée",
+        "teleportDe": "Frohehalde",
+        "position": "unknown",
+        "startTime": "15:00",
+        "endTime": "18:00",
+        "itemIds": ["127"]
+      },
+      {
+        "id": "113",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Sea of Clouds",
+        "zoneFr": "L'Écume des cieux d'Abalathia",
+        "zoneDe": "Abalathisches Wolkenmeer",
+        "teleport": "Ok' Zundu",
+        "teleportFr": "Ok' Zundu",
+        "teleportDe": "Ok' Zundo",
+        "position": {
+          "x": 37,
+          "y": 14
+        },
+        "startTime": "8:00",
+        "endTime": "8:55",
+        "itemIds": ["129", "133"]
+      },
+      {
+        "id": "114",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Churning Mists",
+        "zoneFr": "L'Écume des cieux de Dravania",
+        "zoneDe": "Wallende Nebel",
+        "teleport": "Zenith",
+        "teleportFr": "Zénith",
+        "teleportDe": "Kreidetempel",
+        "position": {
+          "x": 9,
+          "y": 38
+        },
+        "startTime": "2:00",
+        "endTime": "2:55",
+        "itemIds": ["130"]
+      },
+      {
+        "id": "115",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Hautes terres du Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "Falcon's Nest",
+        "teleportFr": "Nid Du Faucon",
+        "teleportDe": "Falkenhorst",
+        "position": "unknown",
+        "startTime": "6:00",
+        "endTime": "7:55",
+        "itemIds": ["131"]
+      },
+      {
+        "id": "116",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Churning Mists",
+        "zoneFr": "L'Écume des cieux de Dravania",
+        "zoneDe": "Wallende Nebel",
+        "teleport": "Zenith",
+        "teleportFr": "Zénith",
+        "teleportDe": "Kreidetempel",
+        "position": {
+          "x": 11,
+          "y": 10
+        },
+        "startTime": "8:00",
+        "endTime": "9:55",
+        "itemIds": ["132", "134"]
+      },
+      {
+        "id": "117",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Azys Lla",
+        "zoneFr": "Azys Lla",
+        "zoneDe": "Azys Lla",
+        "teleport": "Helix",
+        "teleportFr": "Hélice",
+        "teleportDe": "Helix",
+        "position": {
+          "x": 6,
+          "y": 16
+        },
+        "startTime": "6:00",
+        "endTime": "7:55",
+        "itemIds": ["135"]
+      },
+      {
+        "id": "118",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Hautes terres du Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "Tailfeather > Coerthas Western Highlands",
+        "teleportFr": "La Penne > Hautes Terres Du Coerthas Occidental",
+        "teleportDe": "Fiederhag > Westliches Hochland Von Coerthas",
+        "position": {
+          "x": 10,
+          "y": 9
+        },
+        "startTime": "2:00",
+        "endTime": "3:55",
+        "itemIds": ["136"]
+      },
+      {
+        "id": "119",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Dravanian Hinterlands",
+        "zoneFr": "Arrière-pays dravanien",
+        "zoneDe": "Dravanisches Hinterland",
+        "teleport": "Anyx Trine > The Dravanian Hinterlands",
+        "teleportFr": "Annexe Trine > Arrière-pays Dravanien",
+        "teleportDe": "Trinär-Annex > Dravanisches Hinterland",
+        "position": {
+          "x": 15,
+          "y": 30
+        },
+        "startTime": "8:00",
+        "endTime": "9:55",
+        "itemIds": ["137"]
+      },
+      {
+        "id": "120",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Azys Lla",
+        "zoneFr": "Azys Lla",
+        "zoneDe": "Azys Lla",
+        "teleport": "Helix",
+        "teleportFr": "Hélice",
+        "teleportDe": "Helix",
+        "position": {
+          "x": 7,
+          "y": 29
+        },
+        "startTime": "4:00",
+        "endTime": "5:55",
+        "itemIds": ["139"]
+      },
+      {
+        "id": "121",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Churning Mists",
+        "zoneFr": "L'Écume des cieux de Dravania",
+        "zoneDe": "Wallende Nebel",
+        "teleport": "Zenith",
+        "teleportFr": "Zénith",
+        "teleportDe": "Kreidetempel",
+        "position": {
+          "x": 12,
+          "y": 37
+        },
+        "startTime": "10:00",
+        "endTime": "11:55",
+        "itemIds": ["140"]
+      },
+      {
+        "id": "122",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Dravanian Hinterlands",
+        "zoneFr": "Arrière-pays dravanien",
+        "zoneDe": "Dravanisches Hinterland",
+        "teleport": "Idyllshire > The Dravanian Hinterlands",
+        "teleportFr": "Idyllée > Arrière-pays Dravanien",
+        "teleportDe": "Frohehalde > Dravanisches Hinterland",
+        "position": {
+          "x": 8,
+          "y": 29
+        },
+        "startTime": "0:00",
+        "endTime": "1:55",
+        "itemIds": ["141"]
+      },
+      {
+        "id": "123",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "Dravanisches Vorland",
+        "teleport": "",
+        "teleportFr": "ul",
+        "teleportDe": "null",
+        "position": {
+          "x": 36,
+          "y": 28
+        },
+        "startTime": "6:00",
+        "endTime": "7:55",
+        "itemIds": ["142"]
+      },
+      {
+        "id": "124",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Sea of Clouds",
+        "zoneFr": "L'Écume des cieux d'Abalathia",
+        "zoneDe": "Abalathisches Wolkenmeer",
+        "teleport": "Ok' Zundu",
+        "teleportFr": "Ok' Zundu",
+        "teleportDe": "Ok' Zundo",
+        "position": {
+          "x": 21,
+          "y": 7
+        },
+        "startTime": "12:00",
+        "endTime": "13:55",
+        "itemIds": ["88"]
+      },
+      {
+        "id": "125",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Sea of Clouds",
+        "zoneFr": "L'Écume des cieux d'Abalathia",
+        "zoneDe": "Abalathisches Wolkenmeer",
+        "teleport": "Camp Cloudtop > Camp Cloudtop",
+        "teleportFr": "Camp De Cime-des-nuages > Camp De Cime-des-nuages",
+        "teleportDe": "Camp Wolkenwipfel > Camp Wolkenwipfel",
+        "position": {
+          "x": 34,
+          "y": 37
+        },
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "itemIds": ["74"]
+      },
+      {
+        "id": "126",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Sea of Clouds",
+        "zoneFr": "L'Écume des cieux d'Abalathia",
+        "zoneDe": "Abalathisches Wolkenmeer",
+        "teleport": "Ok' Zundu",
+        "teleportFr": "Ok' Zundu",
+        "teleportDe": "Ok' Zundo",
+        "position": {
+          "x": 37,
+          "y": 14
+        },
+        "startTime": "20:00",
+        "endTime": "21:55",
+        "itemIds": ["129", "133"]
+      },
+      {
+        "id": "127",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Dravanian Hinterlands",
+        "zoneFr": "Arrière-pays dravanien",
+        "zoneDe": "Dravanisches Hinterland",
+        "teleport": "Idyllshire > The Dravanian Hinterlands",
+        "teleportFr": "Idyllée > Arrière-pays Dravanien",
+        "teleportDe": "Frohehalde > Dravanisches Hinterland",
+        "position": {
+          "x": 8,
+          "y": 29
+        },
+        "startTime": "12:00",
+        "endTime": "13:55",
+        "itemIds": ["141"]
+      },
+      {
+        "id": "128",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Churning Mists",
+        "zoneFr": "L'Écume des cieux de Dravania",
+        "zoneDe": "Wallende Nebel",
+        "teleport": "Moghome",
+        "teleportFr": "Nid-Mog",
+        "teleportDe": "Moglingen",
+        "position": {
+          "x": 17,
+          "y": 36
+        },
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "itemIds": ["87"]
+      },
+      {
+        "id": "129",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Hautes terres du Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "Falcon's Nest",
+        "teleportFr": "Nid Du Faucon",
+        "teleportDe": "Falkenhorst",
+        "position": {
+          "x": 37,
+          "y": 16
+        },
+        "startTime": "12:00",
+        "endTime": "13:55",
+        "itemIds": ["72", "77"]
+      },
+      {
+        "id": "130",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Churning Mists",
+        "zoneFr": "L'Écume des cieux de Dravania",
+        "zoneDe": "Wallende Nebel",
+        "teleport": "Zenith",
+        "teleportFr": "Zénith",
+        "teleportDe": "Kreidetempel",
+        "position": {
+          "x": 9,
+          "y": 38
+        },
+        "startTime": "14:00",
+        "endTime": "15:55",
+        "itemIds": ["130"]
+      },
+      {
+        "id": "131",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Hautes terres du Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "Tailfeather > Coerthas Western Highlands",
+        "teleportFr": "La Penne > Hautes Terres Du Coerthas Occidental",
+        "teleportDe": "Fiederhag > Westliches Hochland Von Coerthas",
+        "position": {
+          "x": 10,
+          "y": 9
+        },
+        "startTime": "14:00",
+        "endTime": "15:55",
+        "itemIds": ["136"]
+      },
+      {
+        "id": "132",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Azys Lla",
+        "zoneFr": "Azys Lla",
+        "zoneDe": "Azys Lla",
+        "teleport": "Helix",
+        "teleportFr": "Hélice",
+        "teleportDe": "Helix",
+        "position": {
+          "x": 6,
+          "y": 16
+        },
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "itemIds": ["135"]
+      },
+      {
+        "id": "133",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Azys Lla",
+        "zoneFr": "Azys Lla",
+        "zoneDe": "Azys Lla",
+        "teleport": "Helix",
+        "teleportFr": "Hélice",
+        "teleportDe": "Helix",
+        "position": {
+          "x": 35,
+          "y": 14
+        },
+        "startTime": "22:00",
+        "endTime": "23:55",
+        "itemIds": ["76"]
+      },
+      {
+        "id": "134",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Yanxia",
+        "zoneFr": "Yanxien",
+        "zoneDe": "Yanxia",
+        "teleport": "Namai",
+        "teleportFr": "Namai",
+        "teleportDe": "Namai",
+        "position": {
+          "x": 28,
+          "y": 25
+        },
+        "startTime": "10:00",
+        "endTime": "11:55",
+        "itemIds": ["143"]
+      },
+      {
+        "id": "135",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Yanxia",
+        "zoneFr": "Yanxien",
+        "zoneDe": "Yanxia",
+        "teleport": "Namai",
+        "teleportFr": "Namai",
+        "teleportDe": "Namai",
+        "position": {
+          "x": 28,
+          "y": 25
+        },
+        "startTime": "22:00",
+        "endTime": "23:55",
+        "itemIds": ["143"]
+      },
+      {
+        "id": "136",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Ruby Sea",
+        "zoneFr": "Mer de Rubis",
+        "zoneDe": "Rubinsee",
+        "teleport": "Onokoro",
+        "teleportFr": "Onokoro",
+        "teleportDe": "Onokoro",
+        "position": {
+          "x": 15,
+          "y": 5
+        },
+        "startTime": "0:00",
+        "endTime": "1:55",
+        "itemIds": ["144"]
+      },
+      {
+        "id": "137",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Ruby Sea",
+        "zoneFr": "Mer de Rubis",
+        "zoneDe": "Rubinsee",
+        "teleport": "Onokoro",
+        "teleportFr": "Onokoro",
+        "teleportDe": "Onokoro",
+        "position": {
+          "x": 15,
+          "y": 5
+        },
+        "startTime": "12:00",
+        "endTime": "13:55",
+        "itemIds": ["144"]
+      },
+      {
+        "id": "138",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "Dravanisches Vorland",
+        "teleport": "",
+        "teleportFr": "MISSING_DATA",
+        "teleportDe": "MISSING_DATA",
+        "position": {
+          "x": 36,
+          "y": 28
+        },
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "itemIds": ["142"]
+      },
+      {
+        "id": "139",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Dravanian Hinterlands",
+        "zoneFr": "Arrière-pays dravanien",
+        "zoneDe": "Dravanisches Hinterland",
+        "teleport": "Anyx Trine > The Dravanian Hinterlands",
+        "teleportFr": "Annexe Trine > Arrière-pays Dravanien",
+        "teleportDe": "Trinär-Annex > Dravanisches Hinterland",
+        "position": {
+          "x": 39,
+          "y": 26
+        },
+        "startTime": "22:00",
+        "endTime": "23:55",
+        "itemIds": ["90"]
+      },
+      {
+        "id": "140",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Churning Mists",
+        "zoneFr": "L'Écume des cieux de Dravania",
+        "zoneDe": "Wallende Nebel",
+        "teleport": "Zenith",
+        "teleportFr": "Zénith",
+        "teleportDe": "Kreidetempel",
+        "position": {
+          "x": 8,
+          "y": 33
+        },
+        "startTime": "14:00",
+        "endTime": "15:55",
+        "itemIds": ["73"]
+      },
+      {
+        "id": "141",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Peaks",
+        "zoneFr": "Les Pics",
+        "zoneDe": "Die Zinnen",
+        "teleport": "Ala Gannha",
+        "teleportFr": "Ala Gannha",
+        "teleportDe": "Ala Gannha",
+        "position": {
+          "x": 26,
+          "y": 12
+        },
+        "startTime": "8:00",
+        "endTime": "9:55",
+        "itemIds": ["145"]
+      },
+      {
+        "id": "142",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Peaks",
+        "zoneFr": "Les Pics",
+        "zoneDe": "Die Zinnen",
+        "teleport": "Ala Gannha",
+        "teleportFr": "Ala Gannha",
+        "teleportDe": "Ala Gannha",
+        "position": {
+          "x": 26,
+          "y": 12
+        },
+        "startTime": "20:00",
+        "endTime": "21:55",
+        "itemIds": ["145"]
+      },
+      {
+        "id": "143",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Azim Steppe",
+        "zoneFr": "Steppe d'Azim",
+        "zoneDe": "Azim-Steppe",
+        "teleport": "The Dawn Throne",
+        "teleportFr": "Trône De L'Aube",
+        "teleportDe": "Morgenthron",
+        "position": {
+          "x": 5,
+          "y": 27
+        },
+        "startTime": "4:00",
+        "endTime": "5:55",
+        "itemIds": ["147"]
+      },
+      {
+        "id": "144",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Azim Steppe",
+        "zoneFr": "Steppe d'Azim",
+        "zoneDe": "Azim-Steppe",
+        "teleport": "The Dawn Throne",
+        "teleportFr": "Trône De L'Aube",
+        "teleportDe": "Morgenthron",
+        "position": {
+          "x": 5,
+          "y": 27
+        },
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "itemIds": ["147"]
+      },
+      {
+        "id": "147",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Fringes",
+        "zoneFr": "Les Marges",
+        "zoneDe": "Abanisches Grenzland",
+        "teleport": "Rhalgr's Reach",
+        "teleportFr": "Temple Du Poing (entrée)",
+        "teleportDe": "Rhalgrs Wacht",
+        "position": {
+          "x": 25,
+          "y": 8
+        },
+        "startTime": "2:00",
+        "endTime": "3:55",
+        "itemIds": ["146"]
+      },
+      {
+        "id": "148",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Fringes",
+        "zoneFr": "Les Marges",
+        "zoneDe": "Abanisches Grenzland",
+        "teleport": "Rhalgr's Reach",
+        "teleportFr": "Temple Du Poing (entrée)",
+        "teleportDe": "Rhalgrs Wacht",
+        "position": {
+          "x": 25,
+          "y": 8
+        },
+        "startTime": "14:00",
+        "endTime": "15:55",
+        "itemIds": ["146"]
+      },
+      {
+        "id": "149",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Fringes",
+        "zoneFr": "Les Marges",
+        "zoneDe": "Abanisches Grenzland",
+        "teleport": "Castrum Oriens",
+        "teleportFr": "Castrum Oriens",
+        "teleportDe": "Castrum Oriens",
+        "position": {
+          "x": 10,
+          "y": 15
+        },
+        "startTime": "6:00",
+        "endTime": "7:55",
+        "itemIds": ["148"]
+      },
+      {
+        "id": "150",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Fringes",
+        "zoneFr": "Les Marges",
+        "zoneDe": "Abanisches Grenzland",
+        "teleport": "Castrum Oriens",
+        "teleportFr": "Castrum Oriens",
+        "teleportDe": "Castrum Oriens",
+        "position": {
+          "x": 10,
+          "y": 15
+        },
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "itemIds": ["148"]
+      },
+      {
+        "id": "151",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Lochs",
+        "zoneFr": "Les Lacs",
+        "zoneDe": "Das Fenn",
+        "teleport": "Porta Praetoria",
+        "teleportFr": "Porta Praetoria",
+        "teleportDe": "Porta Praetoria",
+        "position": {
+          "x": 21,
+          "y": 28
+        },
+        "startTime": "0:00",
+        "endTime": "1:55",
+        "itemIds": ["149"]
+      },
+      {
+        "id": "152",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Lochs",
+        "zoneFr": "Les Lacs",
+        "zoneDe": "Das Fenn",
+        "teleport": "Porta Praetoria",
+        "teleportFr": "Porta Praetoria",
+        "teleportDe": "Porta Praetoria",
+        "position": {
+          "x": 21,
+          "y": 28
+        },
+        "startTime": "12:00",
+        "endTime": "13:55",
+        "itemIds": ["149"]
+      },
+      {
+        "id": "153",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Dravanian Hinterlands",
+        "zoneFr": "Arrière-pays dravanien",
+        "zoneDe": "Dravanisches Hinterland",
+        "teleport": "Idyllshire",
+        "teleportFr": "Idyllée",
+        "teleportDe": "Frohehalde",
+        "position": {
+          "x": 11,
+          "y": 16
+        },
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "itemIds": ["75"]
+      },
+      {
+        "id": "154",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Hautes terres du Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "Falcon's Nest",
+        "teleportFr": "Nid Du Faucon",
+        "teleportDe": "Falkenhorst",
+        "position": {
+          "x": 23,
+          "y": 21
+        },
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "itemIds": ["89"]
+      },
+      {
+        "id": "155",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Hautes terres du Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "Falcon's Nest > Coerthas Western Highlands",
+        "teleportFr": "Nid Du Faucon > Hautes Terres Du Coerthas Occidental",
+        "teleportDe": "Falkenhorst > Westliches Hochland Von Coerthas",
+        "position": {
+          "x": 25,
+          "y": 32
+        },
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "itemIds": ["91"]
+      },
+      {
+        "id": "156",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Azys Lla",
+        "zoneFr": "Azys Lla",
+        "zoneDe": "Azys Lla",
+        "teleport": "Helix",
+        "teleportFr": "Hélice",
+        "teleportDe": "Helix",
+        "position": {
+          "x": 22,
+          "y": 10
+        },
+        "startTime": "14:00",
+        "endTime": "15:55",
+        "itemIds": ["92"]
+      },
+      {
+        "id": "157",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Hautes terres du Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "Falcon's Nest",
+        "teleportFr": "Nid Du Faucon",
+        "teleportDe": "Falkenhorst",
+        "position": "unknown",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "itemIds": ["131"]
+      },
+      {
+        "id": "158",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Churning Mists",
+        "zoneFr": "L'Écume des cieux de Dravania",
+        "zoneDe": "Wallende Nebel",
+        "teleport": "Zenith",
+        "teleportFr": "Zénith",
+        "teleportDe": "Kreidetempel",
+        "position": {
+          "x": 11,
+          "y": 10
+        },
+        "startTime": "20:00",
+        "endTime": "21:55",
+        "itemIds": ["132", "134"]
+      },
+      {
+        "id": "159",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Dravanian Hinterlands",
+        "zoneFr": "Arrière-pays dravanien",
+        "zoneDe": "Dravanisches Hinterland",
+        "teleport": "Anyx Trine > The Dravanian Hinterlands",
+        "teleportFr": "Annexe Trine > Arrière-pays Dravanien",
+        "teleportDe": "Trinär-Annex > Dravanisches Hinterland",
+        "position": {
+          "x": 15,
+          "y": 30
+        },
+        "startTime": "20:00",
+        "endTime": "21:55",
+        "itemIds": ["137"]
+      },
+      {
+        "id": "160",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Azys Lla",
+        "zoneFr": "Azys Lla",
+        "zoneDe": "Azys Lla",
+        "teleport": "Helix",
+        "teleportFr": "Hélice",
+        "teleportDe": "Helix",
+        "position": {
+          "x": 7,
+          "y": 29
+        },
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "itemIds": ["139"]
+      },
+      {
+        "id": "161",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Churning Mists",
+        "zoneFr": "L'Écume des cieux de Dravania",
+        "zoneDe": "Wallende Nebel",
+        "teleport": "Zenith",
+        "teleportFr": "Zénith",
+        "teleportDe": "Kreidetempel",
+        "position": {
+          "x": 12,
+          "y": 37
+        },
+        "startTime": "22:00",
+        "endTime": "23:55",
+        "itemIds": ["140"]
+      },
+      {
+        "id": "162",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Yanxia",
+        "zoneFr": "Yanxien",
+        "zoneDe": "Yanxia",
+        "teleport": "The House of the Fierce",
+        "teleportFr": "Cercle Des Intrépides",
+        "teleportDe": "Klause Der Grimmigen",
+        "position": {
+          "x": 30,
+          "y": 9
+        },
+        "startTime": "6:00",
+        "endTime": "7:55",
+        "itemIds": ["151"]
+      },
+      {
+        "id": "163",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Yanxia",
+        "zoneFr": "Yanxien",
+        "zoneDe": "Yanxia",
+        "teleport": "The House of the Fierce",
+        "teleportFr": "Cercle Des Intrépides",
+        "teleportDe": "Klause Der Grimmigen",
+        "position": {
+          "x": 30,
+          "y": 9
+        },
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "itemIds": ["151"]
+      },
+      {
+        "id": "164",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Peaks",
+        "zoneFr": "Les Pics",
+        "zoneDe": "Die Zinnen",
+        "teleport": "Ala Gannha",
+        "teleportFr": "Ala Gannha",
+        "teleportDe": "Ala Gannha",
+        "position": {
+          "x": 28,
+          "y": 12
+        },
+        "startTime": "8:00",
+        "endTime": "9:55",
+        "itemIds": ["152"]
+      },
+      {
+        "id": "165",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Peaks",
+        "zoneFr": "Les Pics",
+        "zoneDe": "Die Zinnen",
+        "teleport": "Ala Gannha",
+        "teleportFr": "Ala Gannha",
+        "teleportDe": "Ala Gannha",
+        "position": {
+          "x": 28,
+          "y": 12
+        },
+        "startTime": "20:00",
+        "endTime": "21:55",
+        "itemIds": ["152"]
+      },
+      {
+        "id": "166",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Yanxia",
+        "zoneFr": "Yanxien",
+        "zoneDe": "Yanxia",
+        "teleport": "The House of the Fierce",
+        "teleportFr": "Cercle Des Intrépides",
+        "teleportDe": "Klause Der Grimmigen",
+        "position": {
+          "x": 21,
+          "y": 10
+        },
+        "startTime": "4:00",
+        "endTime": "5:55",
+        "itemIds": ["153"]
+      },
+      {
+        "id": "167",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Yanxia",
+        "zoneFr": "Yanxien",
+        "zoneDe": "Yanxia",
+        "teleport": "The House of the Fierce",
+        "teleportFr": "Cercle Des Intrépides",
+        "teleportDe": "Klause Der Grimmigen",
+        "position": {
+          "x": 21,
+          "y": 10
+        },
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "itemIds": ["153"]
+      },
+      {
+        "id": "168",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Peaks",
+        "zoneFr": "Les Pics",
+        "zoneDe": "Die Zinnen",
+        "teleport": "Ala Ghiri",
+        "teleportFr": "Ala Ghiri",
+        "teleportDe": "Ala Ghiri",
+        "position": {
+          "x": 17,
+          "y": 34
+        },
+        "startTime": "10:00",
+        "endTime": "11:55",
+        "itemIds": ["154", "179"]
+      },
+      {
+        "id": "169",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Peaks",
+        "zoneFr": "Les Pics",
+        "zoneDe": "Die Zinnen",
+        "teleport": "Ala Ghiri",
+        "teleportFr": "Ala Ghiri",
+        "teleportDe": "Ala Ghiri",
+        "position": {
+          "x": 17,
+          "y": 34
+        },
+        "startTime": "22:00",
+        "endTime": "23:55",
+        "itemIds": ["154", "179"]
+      },
+      {
+        "id": "170",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Azim Steppe",
+        "zoneFr": "Steppe d'Azim",
+        "zoneDe": "Azim-Steppe",
+        "teleport": "The Dawn Throne",
+        "teleportFr": "Trône De L'Aube",
+        "teleportDe": "Morgenthron",
+        "position": {
+          "x": 27,
+          "y": 17
+        },
+        "startTime": "2:00",
+        "endTime": "3:55",
+        "itemIds": ["155"]
+      },
+      {
+        "id": "171",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Azim Steppe",
+        "zoneFr": "Steppe d'Azim",
+        "zoneDe": "Azim-Steppe",
+        "teleport": "The Dawn Throne",
+        "teleportFr": "Trône De L'Aube",
+        "teleportDe": "Morgenthron",
+        "position": {
+          "x": 27,
+          "y": 17
+        },
+        "startTime": "14:00",
+        "endTime": "15:55",
+        "itemIds": ["155"]
+      },
+      {
+        "id": "172",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Lochs",
+        "zoneFr": "Les Lacs",
+        "zoneDe": "Das Fenn",
+        "teleport": "Porta Praetoria",
+        "teleportFr": "Porta Praetoria",
+        "teleportDe": "Porta Praetoria",
+        "position": {
+          "x": 8,
+          "y": 8
+        },
+        "startTime": "4:00",
+        "endTime": "5:55",
+        "itemIds": ["156"]
+      },
+      {
+        "id": "173",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Lochs",
+        "zoneFr": "Les Lacs",
+        "zoneDe": "Das Fenn",
+        "teleport": "Porta Praetoria",
+        "teleportFr": "Porta Praetoria",
+        "teleportDe": "Porta Praetoria",
+        "position": {
+          "x": 8,
+          "y": 8
+        },
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "itemIds": ["156"]
+      },
+      {
+        "id": "174",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Peaks",
+        "zoneFr": "Les Pics",
+        "zoneDe": "Die Zinnen",
+        "teleport": "Ala Gannha",
+        "teleportFr": "Ala Gannha",
+        "teleportDe": "Ala Gannha",
+        "position": {
+          "x": 24,
+          "y": 16
+        },
+        "startTime": "6:00",
+        "endTime": "7:55",
+        "itemIds": ["157"]
+      },
+      {
+        "id": "175",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Peaks",
+        "zoneFr": "Les Pics",
+        "zoneDe": "Die Zinnen",
+        "teleport": "Ala Gannha",
+        "teleportFr": "Ala Gannha",
+        "teleportDe": "Ala Gannha",
+        "position": {
+          "x": 24,
+          "y": 16
+        },
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "itemIds": ["157"]
+      },
+      {
+        "id": "176",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Yanxia",
+        "zoneFr": "Yanxien",
+        "zoneDe": "Yanxia",
+        "teleport": "The House of the Fierce",
+        "teleportFr": "Cercle Des Intrépides",
+        "teleportDe": "Klause Der Grimmigen",
+        "position": {
+          "x": 29,
+          "y": 7
+        },
+        "startTime": "8:00",
+        "endTime": "9:55",
+        "itemIds": ["158"]
+      },
+      {
+        "id": "177",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Yanxia",
+        "zoneFr": "Yanxien",
+        "zoneDe": "Yanxia",
+        "teleport": "The House of the Fierce",
+        "teleportFr": "Cercle Des Intrépides",
+        "teleportDe": "Klause Der Grimmigen",
+        "position": {
+          "x": 29,
+          "y": 7
+        },
+        "startTime": "20:00",
+        "endTime": "21:55",
+        "itemIds": ["158"]
+      },
+      {
+        "id": "180",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Lochs",
+        "zoneFr": "Les Lacs",
+        "zoneDe": "Das Fenn",
+        "teleport": "Porta Praetoria",
+        "teleportFr": "Porta Praetoria",
+        "teleportDe": "Porta Praetoria",
+        "position": {
+          "x": 12,
+          "y": 13
+        },
+        "startTime": "6:00",
+        "endTime": "7:55",
+        "itemIds": ["159"]
+      },
+      {
+        "id": "181",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Lochs",
+        "zoneFr": "Les Lacs",
+        "zoneDe": "Das Fenn",
+        "teleport": "Porta Praetoria",
+        "teleportFr": "Porta Praetoria",
+        "teleportDe": "Porta Praetoria",
+        "position": {
+          "x": 12,
+          "y": 13
+        },
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "itemIds": ["159"]
+      },
+      {
+        "id": "182",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Azim Steppe",
+        "zoneFr": "Steppe d'Azim",
+        "zoneDe": "Azim-Steppe",
+        "teleport": "The Dawn Throne",
+        "teleportFr": "Trône De L'Aube",
+        "teleportDe": "Morgenthron",
+        "position": {
+          "x": 20,
+          "y": 10
+        },
+        "startTime": "0:00",
+        "endTime": "1:55",
+        "itemIds": ["160", "178"]
+      },
+      {
+        "id": "183",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Azim Steppe",
+        "zoneFr": "Steppe d'Azim",
+        "zoneDe": "Azim-Steppe",
+        "teleport": "The Dawn Throne",
+        "teleportFr": "Trône De L'Aube",
+        "teleportDe": "Morgenthron",
+        "position": {
+          "x": 20,
+          "y": 10
+        },
+        "startTime": "12:00",
+        "endTime": "13:55",
+        "itemIds": ["160", "178"]
+      },
+      {
+        "id": "184",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Lochs",
+        "zoneFr": "Les Lacs",
+        "zoneDe": "Das Fenn",
+        "teleport": "Porta Praetoria",
+        "teleportFr": "Porta Praetoria",
+        "teleportDe": "Porta Praetoria",
+        "position": {
+          "x": 5,
+          "y": 8
+        },
+        "startTime": "4:00",
+        "endTime": "5:55",
+        "itemIds": ["161"]
+      },
+      {
+        "id": "185",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Lochs",
+        "zoneFr": "Les Lacs",
+        "zoneDe": "Das Fenn",
+        "teleport": "Porta Praetoria",
+        "teleportFr": "Porta Praetoria",
+        "teleportDe": "Porta Praetoria",
+        "position": {
+          "x": 5,
+          "y": 8
+        },
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "itemIds": ["161"]
+      },
+      {
+        "id": "186",
+        "type": "botany",
+        "subType": "ephemeral",
+        "zone": "Yanxia",
+        "zoneFr": "Yanxien",
+        "zoneDe": "Yanxia",
+        "teleport": "The House of the Fierce",
+        "teleportFr": "Cercle Des Intrépides",
+        "teleportDe": "Klause Der Grimmigen",
+        "position": {
+          "x": 22,
+          "y": 12
+        },
+        "startTime": "16:00",
+        "endTime": "19:55",
+        "itemIds": ["162", "165", "176"]
+      },
+      {
+        "id": "187",
+        "type": "mining",
+        "subType": "ephemeral",
+        "zone": "Yanxia",
+        "zoneFr": "Yanxien",
+        "zoneDe": "Yanxia",
+        "teleport": "Namai",
+        "teleportFr": "Namai",
+        "teleportDe": "Namai",
+        "position": {
+          "x": 37,
+          "y": 19
+        },
+        "startTime": "20:00",
+        "endTime": "23:55",
+        "itemIds": ["163", "166", "177"]
+      },
+      {
+        "id": "188",
+        "type": "mining",
+        "subType": "ephemeral",
+        "zone": "Azim Steppe",
+        "zoneFr": "Steppe d'Azim",
+        "zoneDe": "Azim-Steppe",
+        "teleport": "The Dawn Throne",
+        "teleportFr": "Trône De L'Aube",
+        "teleportDe": "Morgenthron",
+        "position": {
+          "x": 29,
+          "y": 15
+        },
+        "startTime": "12:00",
+        "endTime": "15:55",
+        "itemIds": ["164", "167", "176"]
+      },
+      {
+        "id": "189",
+        "type": "botany",
+        "subType": "ephemeral",
+        "zone": "Azim Steppe",
+        "zoneFr": "Steppe d'Azim",
+        "zoneDe": "Azim-Steppe",
+        "teleport": "The Dawn Throne",
+        "teleportFr": "Trône De L'Aube",
+        "teleportDe": "Morgenthron",
+        "position": {
+          "x": 16,
+          "y": 28
+        },
+        "startTime": "8:00",
+        "endTime": "11:55",
+        "itemIds": ["168", "171", "175"]
+      },
+      {
+        "id": "190",
+        "type": "botany",
+        "subType": "ephemeral",
+        "zone": "The Lochs",
+        "zoneFr": "Les Lacs",
+        "zoneDe": "Das Fenn",
+        "teleport": "Porta Praetoria",
+        "teleportFr": "Porta Praetoria",
+        "teleportDe": "Porta Praetoria",
+        "position": {
+          "x": 28,
+          "y": 10
+        },
+        "startTime": "4:00",
+        "endTime": "7:55",
+        "itemIds": ["169", "172", "174"]
+      },
+      {
+        "id": "191",
+        "type": "mining",
+        "subType": "ephemeral",
+        "zone": "The Lochs",
+        "zoneFr": "Les Lacs",
+        "zoneDe": "Das Fenn",
+        "teleport": "Porta Praetoria",
+        "teleportFr": "Porta Praetoria",
+        "teleportDe": "Porta Praetoria",
+        "position": {
+          "x": 13,
+          "y": 16
+        },
+        "startTime": "0:00",
+        "endTime": "3:55",
+        "itemIds": ["170", "173", "175"]
+      },
+      {
+        "id": "192",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Ruby Sea",
+        "zoneFr": "Mer de Rubis",
+        "zoneDe": "Rubinsee",
+        "teleport": "Onokoro",
+        "teleportFr": "Onokoro",
+        "teleportDe": "Onokoro",
+        "position": {
+          "x": 10,
+          "y": 22
+        },
+        "startTime": "6:00",
+        "endTime": "7:55",
+        "itemIds": ["180", "184"]
+      },
+      {
+        "id": "193",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Ruby Sea",
+        "zoneFr": "Mer de Rubis",
+        "zoneDe": "Rubinsee",
+        "teleport": "Onokoro",
+        "teleportFr": "Onokoro",
+        "teleportDe": "Onokoro",
+        "position": {
+          "x": 10,
+          "y": 22
+        },
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "itemIds": ["180", "184"]
+      },
+      {
+        "id": "194",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Azim Steppe",
+        "zoneFr": "Steppe d'Azim",
+        "zoneDe": "Azim-Steppe",
+        "teleport": "The Dawn Throne",
+        "teleportFr": "Trône De L'Aube",
+        "teleportDe": "Morgenthron",
+        "position": {
+          "x": 24,
+          "y": 37
+        },
+        "startTime": "8:00",
+        "endTime": "9:55",
+        "itemIds": ["181", "192"]
+      },
+      {
+        "id": "195",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Azim Steppe",
+        "zoneFr": "Steppe d'Azim",
+        "zoneDe": "Azim-Steppe",
+        "teleport": "The Dawn Throne",
+        "teleportFr": "Trône De L'Aube",
+        "teleportDe": "Morgenthron",
+        "position": {
+          "x": 24,
+          "y": 37
+        },
+        "startTime": "20:00",
+        "endTime": "21:55",
+        "itemIds": ["181", "192"]
+      },
+      {
+        "id": "196",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Fringes",
+        "zoneFr": "Les Marges",
+        "zoneDe": "Abanisches Grenzland",
+        "teleport": "Castrum Oriens",
+        "teleportFr": "Castrum Oriens",
+        "teleportDe": "Castrum Oriens",
+        "position": {
+          "x": 15,
+          "y": 21
+        },
+        "startTime": "4:00",
+        "endTime": "5:55",
+        "itemIds": ["182", "185"]
+      },
+      {
+        "id": "197",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Fringes",
+        "zoneFr": "Les Marges",
+        "zoneDe": "Abanisches Grenzland",
+        "teleport": "Castrum Oriens",
+        "teleportFr": "Castrum Oriens",
+        "teleportDe": "Castrum Oriens",
+        "position": {
+          "x": 15,
+          "y": 21
+        },
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "itemIds": ["182", "185"]
+      },
+      {
+        "id": "198",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Peaks",
+        "zoneFr": "Les Pics",
+        "zoneDe": "Die Zinnen",
+        "teleport": "Ala Ghiri",
+        "teleportFr": "Ala Ghiri",
+        "teleportDe": "Ala Ghiri",
+        "position": {
+          "x": 24,
+          "y": 36
+        },
+        "startTime": "2:00",
+        "endTime": "3:55",
+        "itemIds": ["183"]
+      },
+      {
+        "id": "199",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "The Peaks",
+        "zoneFr": "Les Pics",
+        "zoneDe": "Die Zinnen",
+        "teleport": "Ala Ghiri",
+        "teleportFr": "Ala Ghiri",
+        "teleportDe": "Ala Ghiri",
+        "position": {
+          "x": 24,
+          "y": 36
+        },
+        "startTime": "14:00",
+        "endTime": "15:55",
+        "itemIds": ["183"]
+      },
+      {
+        "id": "200",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Yanxia",
+        "zoneFr": "Yanxien",
+        "zoneDe": "Yanxia",
+        "teleport": "Namai",
+        "teleportFr": "Namai",
+        "teleportDe": "Namai",
+        "position": {
+          "x": 28,
+          "y": 35
+        },
+        "startTime": "2:00",
+        "endTime": "3:55",
+        "itemIds": ["190"]
+      },
+      {
+        "id": "201",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Yanxia",
+        "zoneFr": "Yanxien",
+        "zoneDe": "Yanxia",
+        "teleport": "Namai",
+        "teleportFr": "Namai",
+        "teleportDe": "Namai",
+        "position": {
+          "x": 28,
+          "y": 35
+        },
+        "startTime": "14:00",
+        "endTime": "15:55",
+        "itemIds": ["190"]
+      },
+      {
+        "id": "202",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Peaks",
+        "zoneFr": "Les Pics",
+        "zoneDe": "Die Zinnen",
+        "teleport": "Ala Gannha",
+        "teleportFr": "Ala Gannha",
+        "teleportDe": "Ala Gannha",
+        "position": {
+          "x": 33,
+          "y": 11
+        },
+        "startTime": "4:00",
+        "endTime": "5:55",
+        "itemIds": ["191"]
+      },
+      {
+        "id": "203",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Peaks",
+        "zoneFr": "Les Pics",
+        "zoneDe": "Die Zinnen",
+        "teleport": "Ala Gannha",
+        "teleportFr": "Ala Gannha",
+        "teleportDe": "Ala Gannha",
+        "position": {
+          "x": 33,
+          "y": 11
+        },
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "itemIds": ["191"]
+      },
+      {
+        "id": "204",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Lochs",
+        "zoneFr": "Les Lacs",
+        "zoneDe": "Das Fenn",
+        "teleport": "",
+        "teleportFr": "ul",
+        "teleportDe": "null",
+        "position": {
+          "x": 22,
+          "y": 13
+        },
+        "startTime": "10:00",
+        "endTime": "11:55",
+        "itemIds": ["193"]
+      },
+      {
+        "id": "205",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Lochs",
+        "zoneFr": "Les Lacs",
+        "zoneDe": "Das Fenn",
+        "teleport": "",
+        "teleportFr": "ul",
+        "teleportDe": "null",
+        "position": {
+          "x": 22,
+          "y": 13
+        },
+        "startTime": "22:00",
+        "endTime": "23:55",
+        "itemIds": ["193"]
+      },
+      {
+        "id": "206",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Fringes",
+        "zoneFr": "Les Marges",
+        "zoneDe": "Abanisches Grenzland",
+        "teleport": "Peering Stones",
+        "teleportFr": "Rochers D'aguet",
+        "teleportDe": "Die Spähenden Steine",
+        "position": {
+          "x": 27,
+          "y": 30
+        },
+        "startTime": "0:00",
+        "endTime": "1:55",
+        "itemIds": ["194"]
+      },
+      {
+        "id": "207",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Fringes",
+        "zoneFr": "Les Marges",
+        "zoneDe": "Abanisches Grenzland",
+        "teleport": "Peering Stones",
+        "teleportFr": "Rochers D'aguet",
+        "teleportDe": "Die Spähenden Steine",
+        "position": {
+          "x": 27,
+          "y": 30
+        },
+        "startTime": "12:00",
+        "endTime": "13:55",
+        "itemIds": ["194"]
+      },
+      {
+        "id": "208",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Kholusia",
+        "zoneFr": "Kholusia",
+        "zoneDe": "Kholusia",
+        "teleport": "Stilltide",
+        "teleportFr": "Douceonde",
+        "teleportDe": "Stilltide",
+        "position": "unknown",
+        "startTime": "2:00",
+        "endTime": "3:55",
+        "itemIds": ["195"]
+      },
+      {
+        "id": "209",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Kholusia",
+        "zoneFr": "Kholusia",
+        "zoneDe": "Kholusia",
+        "teleport": "Stilltide",
+        "teleportFr": "Douceonde",
+        "teleportDe": "Stilltide",
+        "position": "unknown",
+        "startTime": "14:00",
+        "endTime": "15:55",
+        "itemIds": ["195"]
+      },
+      {
+        "id": "210",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Rak'tika Greatwood",
+        "zoneFr": "Rak'tika",
+        "zoneDe": "Der Große Wald Rak'tika",
+        "teleport": "Fanow",
+        "teleportFr": "Fanow",
+        "teleportDe": "Fanow",
+        "position": "unknown",
+        "startTime": "4:00",
+        "endTime": "5:55",
+        "itemIds": ["196"]
+      },
+      {
+        "id": "211",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Rak'tika Greatwood",
+        "zoneFr": "Rak'tika",
+        "zoneDe": "Der Große Wald Rak'tika",
+        "teleport": "Fanow",
+        "teleportFr": "Fanow",
+        "teleportDe": "Fanow",
+        "position": "unknown",
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "itemIds": ["196"]
+      },
+      {
+        "id": "212",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Il Mheg",
+        "zoneFr": "Il Mheg",
+        "zoneDe": "Il Mheg",
+        "teleport": "Wolekdorf",
+        "teleportFr": "Wolekdorf",
+        "teleportDe": "Wolekdorf",
+        "position": "unknown",
+        "startTime": "6:00",
+        "endTime": "7:55",
+        "itemIds": ["197"]
+      },
+      {
+        "id": "213",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Il Mheg",
+        "zoneFr": "Il Mheg",
+        "zoneDe": "Il Mheg",
+        "teleport": "Wolekdorf",
+        "teleportFr": "Wolekdorf",
+        "teleportDe": "Wolekdorf",
+        "position": "unknown",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "itemIds": ["197"]
+      },
+      {
+        "id": "214",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Amh Araeng",
+        "zoneFr": "Amh Araeng",
+        "zoneDe": "Amh Araeng",
+        "teleport": "Journey's Head",
+        "teleportFr": "Journey's Head",
+        "teleportDe": "Journey's Head",
+        "position": "unknown",
+        "startTime": "0:00",
+        "endTime": "1:55",
+        "itemIds": ["198"]
+      },
+      {
+        "id": "215",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Amh Araeng",
+        "zoneFr": "Amh Araeng",
+        "zoneDe": "Amh Araeng",
+        "teleport": "Journey's Head",
+        "teleportFr": "Journey's Head",
+        "teleportDe": "Journey's Head",
+        "position": "unknown",
+        "startTime": "12:00",
+        "endTime": "13:55",
+        "itemIds": ["198"]
+      },
+      {
+        "id": "216",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Tempest",
+        "zoneFr": "La Tempête",
+        "zoneDe": "Tempest",
+        "teleport": "The Ondo Cups",
+        "teleportFr": "Baïne",
+        "teleportDe": "Ondo-Becken",
+        "position": {
+          "x": 16.0,
+          "y": 21.0
+        },
+        "startTime": "0:00",
+        "endTime": "1:55",
+        "itemIds": ["199"]
+      },
+      {
+        "id": "217",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Tempest",
+        "zoneFr": "La Tempête",
+        "zoneDe": "Tempest",
+        "teleport": "The Ondo Cups",
+        "teleportFr": "Baïne",
+        "teleportDe": "Ondo-Becken",
+        "position": {
+          "x": 16.0,
+          "y": 21.0
+        },
+        "startTime": "12:00",
+        "endTime": "13:55",
+        "itemIds": ["199"]
+      },
+      {
+        "id": "218",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Lakeland",
+        "zoneFr": "Grand-Lac",
+        "zoneDe": "Das Seenland",
+        "teleport": "Fort Jobb",
+        "teleportFr": "Fort Jobb",
+        "teleportDe": "Jobb-Feste",
+        "position": "unknown",
+        "startTime": "6:00",
+        "endTime": "7:55",
+        "itemIds": ["200"]
+      },
+      {
+        "id": "219",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Lakeland",
+        "zoneFr": "Grand-Lac",
+        "zoneDe": "Das Seenland",
+        "teleport": "Fort Jobb",
+        "teleportFr": "Fort Jobb",
+        "teleportDe": "Jobb-Feste",
+        "position": "unknown",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "itemIds": ["200"]
+      },
+      {
+        "id": "220",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Il Mheg",
+        "zoneFr": "Il Mheg",
+        "zoneDe": "Il Mheg",
+        "teleport": "Wolekdorf",
+        "teleportFr": "Wolekdorf",
+        "teleportDe": "Wolekdorf",
+        "position": "unknown",
+        "startTime": "4:00",
+        "endTime": "5:55",
+        "itemIds": ["201", "218"]
+      },
+      {
+        "id": "221",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Il Mheg",
+        "zoneFr": "Il Mheg",
+        "zoneDe": "Il Mheg",
+        "teleport": "Wolekdorf",
+        "teleportFr": "Wolekdorf",
+        "teleportDe": "Wolekdorf",
+        "position": "unknown",
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "itemIds": ["201", "218"]
+      },
+      {
+        "id": "222",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Tempest",
+        "zoneFr": "La Tempête",
+        "zoneDe": "Tempest",
+        "teleport": "The Ondo Cups",
+        "teleportFr": "Baïne",
+        "teleportDe": "Ondo-Becken",
+        "position": "unknown",
+        "startTime": "10:00",
+        "endTime": "11:55",
+        "itemIds": ["202"]
+      },
+      {
+        "id": "223",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Tempest",
+        "zoneFr": "La Tempête",
+        "zoneDe": "Tempest",
+        "teleport": "The Ondo Cups",
+        "teleportFr": "Baïne",
+        "teleportDe": "Ondo-Becken",
+        "position": "unknown",
+        "startTime": "22:00",
+        "endTime": "23:55",
+        "itemIds": ["202"]
+      },
+      {
+        "id": "224",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Kholusia",
+        "zoneFr": "Kholusia",
+        "zoneDe": "Kholusia",
+        "teleport": "Wright",
+        "teleportFr": "Cherpant",
+        "teleportDe": "Werfting",
+        "position": "unknown",
+        "startTime": "10:00",
+        "endTime": "11:55",
+        "itemIds": ["203"]
+      },
+      {
+        "id": "225",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Kholusia",
+        "zoneFr": "Kholusia",
+        "zoneDe": "Kholusia",
+        "teleport": "Wright",
+        "teleportFr": "Cherpant",
+        "teleportDe": "Werfting",
+        "position": "unknown",
+        "startTime": "22:00",
+        "endTime": "23:55",
+        "itemIds": ["203"]
+      },
+      {
+        "id": "226",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Il Mheg",
+        "zoneFr": "Il Mheg",
+        "zoneDe": "Il Mheg",
+        "teleport": "Lydha Lran",
+        "teleportFr": "Lydha Lran",
+        "teleportDe": "Lydha Lran",
+        "position": "unknown",
+        "startTime": "0:00",
+        "endTime": "1:55",
+        "itemIds": ["204"]
+      },
+      {
+        "id": "227",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Il Mheg",
+        "zoneFr": "Il Mheg",
+        "zoneDe": "Il Mheg",
+        "teleport": "Lydha Lran",
+        "teleportFr": "Lydha Lran",
+        "teleportDe": "Lydha Lran",
+        "position": "unknown",
+        "startTime": "12:00",
+        "endTime": "13:55",
+        "itemIds": ["204"]
+      },
+      {
+        "id": "228",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Lakeland",
+        "zoneFr": "Grand-Lac",
+        "zoneDe": "Das Seenland",
+        "teleport": "Fort Jobb",
+        "teleportFr": "Fort Jobb",
+        "teleportDe": "Jobb-Feste",
+        "position": "unknown",
+        "startTime": "10:00",
+        "endTime": "11:55",
+        "itemIds": ["205"]
+      },
+      {
+        "id": "229",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Lakeland",
+        "zoneFr": "Grand-Lac",
+        "zoneDe": "Das Seenland",
+        "teleport": "Fort Jobb",
+        "teleportFr": "Fort Jobb",
+        "teleportDe": "Jobb-Feste",
+        "position": "unknown",
+        "startTime": "22:00",
+        "endTime": "23:55",
+        "itemIds": ["205"]
+      },
+      {
+        "id": "230",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Rak'tika Greatwood",
+        "zoneFr": "Rak'tika",
+        "zoneDe": "Der Große Wald Rak'tika",
+        "teleport": "Fanow",
+        "teleportFr": "Fanow",
+        "teleportDe": "Fanow",
+        "position": "unknown",
+        "startTime": "0:00",
+        "endTime": "1:55",
+        "itemIds": ["206"]
+      },
+      {
+        "id": "231",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Rak'tika Greatwood",
+        "zoneFr": "Rak'tika",
+        "zoneDe": "Der Große Wald Rak'tika",
+        "teleport": "Fanow",
+        "teleportFr": "Fanow",
+        "teleportDe": "Fanow",
+        "position": "unknown",
+        "startTime": "12:00",
+        "endTime": "13:55",
+        "itemIds": ["206"]
+      },
+      {
+        "id": "232",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Kholusia",
+        "zoneFr": "Kholusia",
+        "zoneDe": "Kholusia",
+        "teleport": "Wright",
+        "teleportFr": "Cherpant",
+        "teleportDe": "Werfting",
+        "position": {
+          "x": 20,
+          "y": 27
+        },
+        "startTime": "6:00",
+        "endTime": "7:55",
+        "itemIds": ["207"]
+      },
+      {
+        "id": "233",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Kholusia",
+        "zoneFr": "Kholusia",
+        "zoneDe": "Kholusia",
+        "teleport": "Wright",
+        "teleportFr": "Cherpant",
+        "teleportDe": "Werfting",
+        "position": "unknown",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "itemIds": ["207"]
+      },
+      {
+        "id": "234",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Amh Araeng",
+        "zoneFr": "Amh Araeng",
+        "zoneDe": "Amh Araeng",
+        "teleport": "Twine",
+        "teleportFr": "Queues-liées",
+        "teleportDe": "Pfotenschlag",
+        "position": "unknown",
+        "startTime": "8:00",
+        "endTime": "9:55",
+        "itemIds": ["208"]
+      },
+      {
+        "id": "235",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Amh Araeng",
+        "zoneFr": "Amh Araeng",
+        "zoneDe": "Amh Araeng",
+        "teleport": "Twine",
+        "teleportFr": "Queues-liées",
+        "teleportDe": "Pfotenschlag",
+        "position": "unknown",
+        "startTime": "20:00",
+        "endTime": "21:55",
+        "itemIds": ["208"]
+      },
+      {
+        "id": "236",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Rak'tika Greatwood",
+        "zoneFr": "Rak'tika",
+        "zoneDe": "Der Große Wald Rak'tika",
+        "teleport": "Slitherbough",
+        "teleportFr": "Serpentige",
+        "teleportDe": "Slitherbough",
+        "position": "unknown",
+        "startTime": "2:00",
+        "endTime": "3:55",
+        "itemIds": ["209", "217"]
+      },
+      {
+        "id": "237",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Rak'tika Greatwood",
+        "zoneFr": "Rak'tika",
+        "zoneDe": "Der Große Wald Rak'tika",
+        "teleport": "Slitherbough",
+        "teleportFr": "Serpentige",
+        "teleportDe": "Slitherbough",
+        "position": "unknown",
+        "startTime": "14:00",
+        "endTime": "15:55",
+        "itemIds": ["209", "217"]
+      },
+      {
+        "id": "238",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Lakeland",
+        "zoneFr": "Grand-Lac",
+        "zoneDe": "Das Seenland",
+        "teleport": "Fort Jobb",
+        "teleportFr": "Fort Jobb",
+        "teleportDe": "Jobb-Feste",
+        "position": "unknown",
+        "startTime": "8:00",
+        "endTime": "9:55",
+        "itemIds": ["210"]
+      },
+      {
+        "id": "239",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Lakeland",
+        "zoneFr": "Grand-Lac",
+        "zoneDe": "Das Seenland",
+        "teleport": "Fort Jobb",
+        "teleportFr": "Fort Jobb",
+        "teleportDe": "Jobb-Feste",
+        "position": "unknown",
+        "startTime": "20:00",
+        "endTime": "21:55",
+        "itemIds": ["210"]
+      },
+      {
+        "id": "240",
+        "type": "mining",
+        "subType": "ephemeral",
+        "zone": "Kholusia",
+        "zoneFr": "Kholusia",
+        "zoneDe": "Kholusia",
+        "teleport": "Tomra",
+        "teleportFr": "Tomra",
+        "teleportDe": "Tomra",
+        "position": "unknown",
+        "startTime": "16:00",
+        "endTime": "19:55",
+        "itemIds": ["211"]
+      },
+      {
+        "id": "241",
+        "type": "mining",
+        "subType": "ephemeral",
+        "zone": "Lakeland",
+        "zoneFr": "Grand-Lac",
+        "zoneDe": "Das Seenland",
+        "teleport": "Fort Jobb",
+        "teleportFr": "Fort Jobb",
+        "teleportDe": "Jobb-Feste",
+        "position": "unknown",
+        "startTime": "8:00",
+        "endTime": "11:55",
+        "itemIds": ["212"]
+      },
+      {
+        "id": "242",
+        "type": "mining",
+        "subType": "ephemeral",
+        "zone": "Rak'tika Greatwood",
+        "zoneFr": "Rak'tika",
+        "zoneDe": "Der Große Wald Rak'tika",
+        "teleport": "Slitherbough",
+        "teleportFr": "Serpentige",
+        "teleportDe": "Slitherbough",
+        "position": "unknown",
+        "startTime": "0:00",
+        "endTime": "3:55",
+        "itemIds": ["213"]
+      },
+      {
+        "id": "243",
+        "type": "botany",
+        "subType": "ephemeral",
+        "zone": "Lakeland",
+        "zoneFr": "Grand-Lac",
+        "zoneDe": "Das Seenland",
+        "teleport": "Fort Jobb",
+        "teleportFr": "Fort Jobb",
+        "teleportDe": "Jobb-Feste",
+        "position": "unknown",
+        "startTime": "12:00",
+        "endTime": "15:55",
+        "itemIds": ["214"]
+      },
+      {
+        "id": "244",
+        "type": "botany",
+        "subType": "ephemeral",
+        "zone": "Kholusia",
+        "zoneFr": "Kholusia",
+        "zoneDe": "Kholusia",
+        "teleport": "Tomra",
+        "teleportFr": "Tomra",
+        "teleportDe": "Tomra",
+        "position": "unknown",
+        "startTime": "20:00",
+        "endTime": "23:55",
+        "itemIds": ["215"]
+      },
+      {
+        "id": "245",
+        "type": "botany",
+        "subType": "ephemeral",
+        "zone": "Rak'tika Greatwood",
+        "zoneFr": "Rak'tika",
+        "zoneDe": "Der Große Wald Rak'tika",
+        "teleport": "Fanow",
+        "teleportFr": "Fanow",
+        "teleportDe": "Fanow",
+        "position": "unknown",
+        "startTime": "4:00",
+        "endTime": "7:55",
+        "itemIds": ["216"]
+      },
+      {
+        "id": "246",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Kholusia",
+        "zoneFr": "Kholusia",
+        "zoneDe": "Kholusia",
+        "teleport": "Stilltide",
+        "teleportFr": "Douceonde",
+        "teleportDe": "Stilltide",
+        "position": "unknown",
+        "startTime": "0:00",
+        "endTime": "1:55",
+        "itemIds": ["219"]
+      },
+      {
+        "id": "247",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Kholusia",
+        "zoneFr": "Kholusia",
+        "zoneDe": "Kholusia",
+        "teleport": "Stilltide",
+        "teleportFr": "Douceonde",
+        "teleportDe": "Stilltide",
+        "position": "unknown",
+        "startTime": "12:00",
+        "endTime": "13:55",
+        "itemIds": ["219"]
+      },
+      {
+        "id": "248",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Amh Araeng",
+        "zoneFr": "Amh Araeng",
+        "zoneDe": "Amh Araeng",
+        "teleport": "Inn at Journey",
+        "teleportFr": "Auberge du Grand Départ",
+        "teleportDe": "Ruhstatt vor der Langen Reise",
+        "position": "unknown",
+        "startTime": "4:00",
+        "endTime": "5:55",
+        "itemIds": ["220"]
+      },
+      {
+        "id": "249",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Amh Araeng",
+        "zoneFr": "Amh Araeng",
+        "zoneDe": "Amh Araeng",
+        "teleport": "Inn at Journey",
+        "teleportFr": "Auberge du Grand Départ",
+        "teleportDe": "Ruhstatt vor der Langen Reise",
+        "position": "unknown",
+        "startTime": "16:00",
+        "endTime": "17:55",
+        "itemIds": ["220"]
+      },
+      {
+        "id": "250",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Il Mheg",
+        "zoneFr": "Il Mheg",
+        "zoneDe": "Il Mheg",
+        "teleport": "Lydha Lran",
+        "teleportFr": "Lydha Lran",
+        "teleportDe": "Lydha Lran",
+        "position": "unknown",
+        "startTime": "8:00",
+        "endTime": "9:55",
+        "itemIds": ["221"]
+      },
+      {
+        "id": "251",
+        "type": "botany",
+        "subType": "folklore",
+        "zone": "Il Mheg",
+        "zoneFr": "Il Mheg",
+        "zoneDe": "Il Mheg",
+        "teleport": "Lydha Lran",
+        "teleportFr": "Lydha Lran",
+        "teleportDe": "Lydha Lran",
+        "position": "unknown",
+        "startTime": "20:00",
+        "endTime": "21:55",
+        "itemIds": ["221"]
+      },
+      {
+        "id": "252",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Lakeland",
+        "zoneFr": "Grand-Lac",
+        "zoneDe": "Das Seenland",
+        "teleport": "The Ostall Imperative",
+        "teleportFr": "L'Impératif d'Ostall",
+        "teleportDe": "Ostalls Befehl",
+        "position": {
+          "x": 4.7,
+          "y": 33.9
+        },
+        "startTime": "2:00",
+        "endTime": "3:55",
+        "itemIds": ["222", "brashgold-ore"]
+      },
+      {
+        "id": "253",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Lakeland",
+        "zoneFr": "Grand-Lac",
+        "zoneDe": "Das Seenland",
+        "teleport": "The Ostall Imperative",
+        "teleportFr": "L'Impératif d'Ostall",
+        "teleportDe": "Ostalls Befehl",
+        "position": {
+          "x": 4.7,
+          "y": 33.9
+        },
+        "startTime": "14:00",
+        "endTime": "15:55",
+        "itemIds": ["222", "brashgold-ore"]
+      },
+      {
+        "id": "254",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Tempest",
+        "zoneFr": "La Tempête",
+        "zoneDe": "Tempest",
+        "teleport": "The Macarenses Angle",
+        "teleportFr": "Carré macarien",
+        "teleportDe": "The Macarenses Angle",
+        "position": "unknown",
+        "startTime": "6:00",
+        "endTime": "7:55",
+        "itemIds": ["223"]
+      },
+      {
+        "id": "255",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "The Tempest",
+        "zoneFr": "La Tempête",
+        "zoneDe": "Tempest",
+        "teleport": "The Macarenses Angle",
+        "teleportFr": "Carré macarien",
+        "teleportDe": "The Macarenses Angle",
+        "position": "unknown",
+        "startTime": "18:00",
+        "endTime": "19:55",
+        "itemIds": ["223"]
+      },
+      {
+        "id": "256",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Amh Araeng",
+        "zoneFr": "Amh Araeng",
+        "zoneDe": "Amh Araeng",
+        "teleport": "Mord Souq",
+        "teleportFr": "Mord Souq",
+        "teleportDe": "Mord Souq",
+        "position": "unknown",
+        "startTime": "10:00",
+        "endTime": "11:55",
+        "itemIds": ["224"]
+      },
+      {
+        "id": "257",
+        "type": "mining",
+        "subType": "folklore",
+        "zone": "Amh Araeng",
+        "zoneFr": "Amh Araeng",
+        "zoneDe": "Amh Araeng",
+        "teleport": "Mord Souq",
+        "teleportFr": "Mord Souq",
+        "teleportDe": "Mord Souq",
+        "position": "unknown",
+        "startTime": "22:00",
+        "endTime": "23:55",
+        "itemIds": ["224"]
+      },
+      {
+        "id": "kholusia-4",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Kholusia",
+        "zoneFr": "Kholusia",
+        "zoneDe": "Kholusia",
+        "teleport": "Tomra",
+        "teleportFr": "Tomra",
+        "teleportDe": "Tomra",
+        "position": {
+          "x": 36.1,
+          "y": 12.2
+        },
+        "startTime": "4:00",
+        "endTime": "6:00",
+        "itemIds": ["225"]
+      },
+      {
+        "id": "kholusia-16",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Kholusia",
+        "zoneFr": "Kholusia",
+        "zoneDe": "Kholusia",
+        "teleport": "Tomra",
+        "teleportFr": "Tomra",
+        "teleportDe": "Tomra",
+        "position": {
+          "x": 36.1,
+          "y": 12.2
+        },
+        "startTime": "16:00",
+        "endTime": "18:00",
+        "itemIds": ["225"]
+      },
+      {
+        "id": "rak'tika-greatwood-8",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Rak'tika Greatwood",
+        "zoneFr": "Rak'tika Greatwood",
+        "zoneDe": "Rak'tika Greatwood",
+        "teleport": "Slitherbough",
+        "teleportFr": "Serpentige",
+        "teleportDe": "Slitherbough",
+        "position": {
+          "x": 7.6,
+          "y": 30.1
+        },
+        "startTime": "8:00",
+        "endTime": "10:00",
+        "itemIds": ["226"]
+      },
+      {
+        "id": "rak'tika-greatwood-20",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Rak'tika Greatwood",
+        "zoneFr": "Rak'tika Greatwood",
+        "zoneDe": "Rak'tika Greatwood",
+        "teleport": "Slitherbough",
+        "teleportFr": "Serpentige",
+        "teleportDe": "Slitherbough",
+        "position": {
+          "x": 7.6,
+          "y": 30.1
+        },
+        "startTime": "20:00",
+        "endTime": "22:00",
+        "itemIds": ["226"]
+      },
+      {
+        "id": "il-mheg-2",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Il Mheg",
+        "zoneFr": "Il Mheg",
+        "zoneDe": "Il Mheg",
+        "teleport": "Wolekdorf",
+        "teleportFr": "Wolekdorf",
+        "teleportDe": "Wolekdorf",
+        "position": {
+          "x": 36.1,
+          "y": 12.2
+        },
+        "startTime": "2:00",
+        "endTime": "4:00",
+        "itemIds": ["solstice-stone"]
+      },
+      {
+        "id": "il-mheg-14",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Il Mheg",
+        "zoneFr": "Il Mheg",
+        "zoneDe": "Il Mheg",
+        "teleport": "Wolekdorf",
+        "teleportFr": "Wolekdorf",
+        "teleportDe": "Wolekdorf",
+        "position": {
+          "x": 36.1,
+          "y": 12.2
+        },
+        "startTime": "14:00",
+        "endTime": "16:00",
+        "itemIds": ["solstice-stone"]
+      },
+      {
+        "id": "the-rak'tika-greatwood-10",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Rak'tika Greatwood",
+        "zoneFr": "Rak'tika Greatwood",
+        "zoneDe": "Rak'tika Greatwood",
+        "teleport": "Fanow",
+        "teleportFr": "Fanow",
+        "teleportDe": "Fanow",
+        "position": {
+          "x": 33.7,
+          "y": 13.2
+        },
+        "startTime": "10:00",
+        "endTime": "12:00",
+        "itemIds": ["227"]
+      },
+      {
+        "id": "the-rak'tika-greatwood-22",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Rak'tika Greatwood",
+        "zoneFr": "Rak'tika Greatwood",
+        "zoneDe": "Rak'tika Greatwood",
+        "teleport": "Fanow",
+        "teleportFr": "Fanow",
+        "teleportDe": "Fanow",
+        "position": {
+          "x": 33.7,
+          "y": 13.2
+        },
+        "startTime": "22:00",
+        "endTime": "0:00",
+        "itemIds": ["227"]
+      },
+      {
+        "id": "arm-araeng-6",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Arm Araeng",
+        "zoneFr": "Arm Araeng",
+        "zoneDe": "Arm Araeng",
+        "teleport": "Twine",
+        "teleportFr": "Queues-liées",
+        "teleportDe": "Pfotenschlag",
+        "position": {
+          "x": 16,
+          "y": 10.9
+        },
+        "startTime": "6:00",
+        "endTime": "8:00",
+        "itemIds": ["228"]
+      },
+      {
+        "id": "arm-araeng-18",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Arm Araeng",
+        "zoneFr": "Arm Araeng",
+        "zoneDe": "Arm Araeng",
+        "teleport": "Twine",
+        "teleportFr": "Queues-liées",
+        "teleportDe": "Pfotenschlag",
+        "position": {
+          "x": 16,
+          "y": 10.9
+        },
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "itemIds": ["228"]
+      },
+      {
+        "id": "lakeland-0",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Lakeland",
+        "zoneFr": "Grand-Lac",
+        "zoneDe": "Seenland",
+        "teleport": "The Ostall Imperative",
+        "teleportFr": "L'Impératif d'Ostall",
+        "teleportDe": "Ostalls Befehl",
+        "position": {
+          "x": 5.2,
+          "y": 26.5
+        },
+        "startTime": "0:00",
+        "endTime": "2:00",
+        "itemIds": ["229"]
+      },
+      {
+        "id": "lakeland-12",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Lakeland",
+        "zoneFr": "Grand-Lac",
+        "zoneDe": "Seenland",
+        "teleport": "The Ostall Imperative",
+        "teleportFr": "L'Impératif d'Ostall",
+        "teleportDe": "Ostalls Befehl",
+        "position": {
+          "x": 5.2,
+          "y": 26.5
+        },
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "itemIds": ["229"]
+      },
+      {
+        "id": "the-sea-of-clouds-2",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Sea of Clouds",
+        "zoneFr": "L'Écume des cieux d'Abalathia",
+        "zoneDe": "Abalathischen Wolkenmeer",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 20.6,
+          "y": 11.5
+        },
+        "startTime": "2:00",
+        "endTime": "3:00",
+        "itemIds": [
+          "rarefied-abalathian-spring-water",
+          "rarefied-aurum-regis-sand"
+        ]
+      },
+      {
+        "id": "the-sea-of-clouds-14",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Sea of Clouds",
+        "zoneFr": "L'Écume des cieux d'Abalathia",
+        "zoneDe": "Abalathischen Wolkenmeer",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 20.6,
+          "y": 11.5
+        },
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "itemIds": [
+          "rarefied-abalathian-spring-water",
+          "rarefied-aurum-regis-sand"
+        ]
+      },
+      {
+        "id": "the-sea-of-clouds-unknown",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Sea of Clouds",
+        "zoneFr": "L'Écume des cieux d'Abalathia",
+        "zoneDe": "Abalathischen Wolkenmeer",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 29.8,
+          "y": 22
+        },
+        "startTime": "0:00",
+        "endTime": "1:00",
+        "itemIds": ["rarefied-bluespirit-ore"]
+      },
+      {
+        "id": "the-dravanian-forelands-4",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "dravanischen Vorland",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 30.6,
+          "y": 32.1
+        },
+        "startTime": "4:00",
+        "endTime": "5:00",
+        "itemIds": ["rarefied-chalcocite"]
+      },
+      {
+        "id": "the-dravanian-forelands-16",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "dravanischen Vorland",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 30.6,
+          "y": 32.1
+        },
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "itemIds": ["rarefied-chalcocite"]
+      },
+      {
+        "id": "the-fringes-10",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Fringes",
+        "zoneFr": "Les Marges",
+        "zoneDe": "Abanisches Grenzland",
+        "teleport": "The Peering Stones",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 31.5,
+          "y": 31.3
+        },
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "itemIds": ["rarefied-gyr-abanian-alumen"]
+      },
+      {
+        "id": "the-fringes-22",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Fringes",
+        "zoneFr": "Les Marges",
+        "zoneDe": "Abanisches Grenzland",
+        "teleport": "The Peering Stones",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 31.5,
+          "y": 31.3
+        },
+        "startTime": "22:00",
+        "endTime": "23:00",
+        "itemIds": ["rarefied-gyr-abanian-alumen"]
+      },
+      {
+        "id": "the-fringes-unknown",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Fringes",
+        "zoneFr": "Les Marges",
+        "zoneDe": "Abanisches Grenzland",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 15.9,
+          "y": 24.4
+        },
+        "startTime": "0:00",
+        "endTime": "1:00",
+        "itemIds": ["rarefied-gyr-abanian-mineral-water"]
+      },
+      {
+        "id": "the-dravanian-forelands-4",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "dravanischen Vorland",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 30.6,
+          "y": 32.1
+        },
+        "startTime": "4:00",
+        "endTime": "5:00",
+        "itemIds": ["rarefied-limonite"]
+      },
+      {
+        "id": "the-dravanian-forelands-16",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "dravanischen Vorland",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 30.6,
+          "y": 32.1
+        },
+        "startTime": "4:00",
+        "endTime": "5:00",
+        "itemIds": ["rarefied-limonite", "rarefied-pyrite"]
+      },
+      {
+        "id": "the-rak'tika-greatwood-unknown",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Rak'tika Greatwood",
+        "zoneFr": "Rak'tika",
+        "zoneDe": "Der Große Wald Rak'tika",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": "unknown",
+        "startTime": "0:00",
+        "endTime": "1:00",
+        "itemIds": ["rarefied-manasilver-sand", "rarefied-pyrite"]
+      },
+      {
+        "id": "coerthas-western-highlands-unknown",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 35,
+          "y": 18
+        },
+        "startTime": "0:00",
+        "endTime": "1:00",
+        "itemIds": ["rarefied-mythrite-sand"]
+      },
+      {
+        "id": "the-azim-steppe-6",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Azim Steppe",
+        "zoneFr": "Steppe d'Azim",
+        "zoneDe": "Azim-Steppe",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 35.9,
+          "y": 26.4
+        },
+        "startTime": "6:00",
+        "endTime": "7:00",
+        "itemIds": ["rarefied-raw-azurite", "rarefied-silvergrace-ore"]
+      },
+      {
+        "id": "the-azim-steppe-18",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Azim Steppe",
+        "zoneFr": "Steppe d'Azim",
+        "zoneDe": "Azim-Steppe",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 35.9,
+          "y": 26.4
+        },
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "itemIds": ["rarefied-raw-azurite", "rarefied-silvergrace-ore"]
+      },
+      {
+        "id": "the-fringes-8",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Fringes",
+        "zoneFr": "Les Marges",
+        "zoneDe": "Abanisches Grenzland",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 29.5,
+          "y": 12.9
+        },
+        "startTime": "8:00",
+        "endTime": "9:00",
+        "itemIds": ["rarefied-raw-kyanite", "rarefied-raw-triphane"]
+      },
+      {
+        "id": "the-fringes-20",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Fringes",
+        "zoneFr": "Les Marges",
+        "zoneDe": "Abanisches Grenzland",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 29.5,
+          "y": 12.9
+        },
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "itemIds": ["rarefied-raw-kyanite", "rarefied-raw-triphane"]
+      },
+      {
+        "id": "the-rak'tika-greatwood-6",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Rak'tika Greatwood",
+        "zoneFr": "Rak'tika",
+        "zoneDe": "Der Große Wald Rak'tika",
+        "teleport": "Slitherbough",
+        "teleportFr": "Serpentige",
+        "teleportDe": "Slitherbough",
+        "position": {
+          "x": 16,
+          "y": 18.1
+        },
+        "startTime": "6:00",
+        "endTime": "7:00",
+        "itemIds": ["rarefied-raw-lazurite"]
+      },
+      {
+        "id": "the-rak'tika-greatwood-18",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Rak'tika Greatwood",
+        "zoneFr": "Rak'tika",
+        "zoneDe": "Der Große Wald Rak'tika",
+        "teleport": "Slitherbough",
+        "teleportFr": "Serpentige",
+        "teleportDe": "Slitherbough",
+        "position": {
+          "x": 16,
+          "y": 18.1
+        },
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "itemIds": ["rarefied-raw-lazurite"]
+      },
+      {
+        "id": "the-tempest-8",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Tempest",
+        "zoneFr": "La Tempête",
+        "zoneDe": "Tempest",
+        "teleport": "The Ondo Cups",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 25,
+          "y": 4.4
+        },
+        "startTime": "8:00",
+        "endTime": "9:00",
+        "itemIds": ["rarefied-raw-onyx", "rarefied-sea-salt"]
+      },
+      {
+        "id": "the-tempest-20",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Tempest",
+        "zoneFr": "La Tempête",
+        "zoneDe": "Tempest",
+        "teleport": "The Ondo Cups",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 25,
+          "y": 4.4
+        },
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "itemIds": ["rarefied-raw-onyx", "rarefied-sea-salt"]
+      },
+      {
+        "id": "lakeland-4",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Lakeland",
+        "zoneFr": "Grand-Lac",
+        "zoneDe": "Seenland",
+        "teleport": "Fort Jobb",
+        "teleportFr": "Fort Jobb",
+        "teleportDe": "Jobb-Feste",
+        "position": {
+          "x": 35.9,
+          "y": 26.4
+        },
+        "startTime": "4:00",
+        "endTime": "5:00",
+        "itemIds": ["rarefied-raw-petalite", "rarefied-titancopper-ore"]
+      },
+      {
+        "id": "lakeland-16",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Lakeland",
+        "zoneFr": "Grand-Lac",
+        "zoneDe": "Seenland",
+        "teleport": "Fort Jobb",
+        "teleportFr": "Fort Jobb",
+        "teleportDe": "Jobb-Feste",
+        "position": {
+          "x": 35.9,
+          "y": 26.4
+        },
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "itemIds": ["rarefied-raw-petalite", "rarefied-titancopper-ore"]
+      },
+      {
+        "id": "the-ruby-sea-10",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Ruby Sea",
+        "zoneFr": "Mer de Rubis",
+        "zoneDe": "Rubinsee",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 21.1,
+          "y": 34.3
+        },
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "itemIds": ["rarefied-raw-star-spinel"]
+      },
+      {
+        "id": "the-ruby-sea-22",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Ruby Sea",
+        "zoneFr": "Mer de Rubis",
+        "zoneDe": "Rubinsee",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 21.1,
+          "y": 34.3
+        },
+        "startTime": "22:00",
+        "endTime": "23:00",
+        "itemIds": ["rarefied-raw-star-spinel"]
+      },
+      {
+        "id": "the-tempest-2",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Tempest",
+        "zoneFr": "La Tempête",
+        "zoneDe": "Tempest",
+        "teleport": "The Ondo Cups",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 32.7,
+          "y": 20.5
+        },
+        "startTime": "2:00",
+        "endTime": "3:00",
+        "itemIds": ["rarefied-reef-rock", "rarefied-tungsten-ore"]
+      },
+      {
+        "id": "the-tempest-14",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "The Tempest",
+        "zoneFr": "La Tempête",
+        "zoneDe": "Tempest",
+        "teleport": "The Ondo Cups",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 32.7,
+          "y": 20.5
+        },
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "itemIds": ["rarefied-reef-rock", "rarefied-tungsten-ore"]
+      },
+      {
+        "id": "amh-araeng-2",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Amh Araeng",
+        "zoneFr": "Amh Araeng",
+        "zoneDe": "Amh Araeng",
+        "teleport": "Twine",
+        "teleportFr": "Queues-liées",
+        "teleportDe": "Pfotenschlag",
+        "position": {
+          "x": 18.5,
+          "y": 20.4
+        },
+        "startTime": "2:00",
+        "endTime": "4:00",
+        "itemIds": ["rarefied-amber-cloves", "rarefied-sandteak-log"]
+      },
+      {
+        "id": "amh-araeng-14",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Amh Araeng",
+        "zoneFr": "Amh Araeng",
+        "zoneDe": "Amh Araeng",
+        "teleport": "Twine",
+        "teleportFr": "Queues-liées",
+        "teleportDe": "Pfotenschlag",
+        "position": {
+          "x": 18.5,
+          "y": 20.4
+        },
+        "startTime": "14:00",
+        "endTime": "16:00",
+        "itemIds": ["rarefied-amber-cloves", "rarefied-sandteak-log"]
+      },
+      {
+        "id": "the-fringes-unknown-botany",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Fringes",
+        "zoneFr": "Les Marges",
+        "zoneDe": "Abanisches Grenzland",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 28,
+          "y": 15
+        },
+        "startTime": "0:00",
+        "endTime": "2:00",
+        "itemIds": ["rarefied-bloodhemp"]
+      },
+      {
+        "id": "lakeland-unknown-botany",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Lakeland",
+        "zoneFr": "Grand-Lac",
+        "zoneDe": "Seenland",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 21.4,
+          "y": 12.1
+        },
+        "startTime": "0:00",
+        "endTime": "2:00",
+        "itemIds": ["rarefied-bright-flax"]
+      },
+      {
+        "id": "the-tempest-4",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Tempest",
+        "zoneFr": "La Tempête",
+        "zoneDe": "Tempest",
+        "teleport": "The Ondo Cups",
+        "teleportFr": "Baïne",
+        "teleportDe": "Ondo-Becken",
+        "position": {
+          "x": 37.4,
+          "y": 11.6
+        },
+        "startTime": "4:00",
+        "endTime": "6:00",
+        "itemIds": ["rarefied-kelp", "rarefied-coral"]
+      },
+      {
+        "id": "the-tempest-16",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Tempest",
+        "zoneFr": "La Tempête",
+        "zoneDe": "Tempest",
+        "teleport": "The Ondo Cups",
+        "teleportFr": "Baïne",
+        "teleportDe": "Ondo-Becken",
+        "position": {
+          "x": 37.4,
+          "y": 11.6
+        },
+        "startTime": "16:00",
+        "endTime": "18:00",
+        "itemIds": ["rarefied-kelp", "rarefied-coral"]
+      },
+      {
+        "id": "the-dravanian-forelands-0",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "dravanischen Vorland",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 16.1,
+          "y": 36.4
+        },
+        "startTime": "0:00",
+        "endTime": "2:00",
+        "itemIds": ["rarefied-dark-chestnut", "rarefied-dark-chestnut-resin"]
+      },
+      {
+        "id": "the-dravanian-forelands-12",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "dravanischen Vorland",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 16.1,
+          "y": 36.4
+        },
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "itemIds": ["rarefied-dark-chestnut", "rarefied-dark-chestnut-resin"]
+      },
+      {
+        "id": "the-ruby-sea-4",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Ruby Sea",
+        "zoneFr": "Mer de Rubis",
+        "zoneDe": "Rubinsee",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 33,
+          "y": 9.2
+        },
+        "startTime": "4:00",
+        "endTime": "6:00",
+        "itemIds": ["rarefied-shiitake-mushroom"]
+      },
+      {
+        "id": "the-ruby-sea-16",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Ruby Sea",
+        "zoneFr": "Mer de Rubis",
+        "zoneDe": "Rubinsee",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 33,
+          "y": 9.2
+        },
+        "startTime": "16:00",
+        "endTime": "18:00",
+        "itemIds": ["rarefied-shiitake-mushroom"]
+      },
+      {
+        "id": "the-dravanian-forelands-10",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "dravanischen Vorland",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 29.1,
+          "y": 30
+        },
+        "startTime": "10:00",
+        "endTime": "12:00",
+        "itemIds": [
+          "rarefied-dark-chestnut-sap",
+          "rarefied-dark-chestnut-branch",
+          "rarefied-dark-chestnut-log"
+        ]
+      },
+      {
+        "id": "the-dravanian-forelands-22",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Dravanian Forelands",
+        "zoneFr": "Avant-pays dravanien",
+        "zoneDe": "dravanischen Vorland",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 29.1,
+          "y": 30
+        },
+        "startTime": "22:00",
+        "endTime": "0:00",
+        "itemIds": [
+          "rarefied-dark-chestnut-sap",
+          "rarefied-dark-chestnut-branch",
+          "rarefied-dark-chestnut-log"
+        ]
+      },
+      {
+        "id": "the-ruby-sea-2",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Ruby Sea",
+        "zoneFr": "Mer de Rubis",
+        "zoneDe": "Rubinsee",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 5.9,
+          "y": 15.7
+        },
+        "startTime": "2:00",
+        "endTime": "4:00",
+        "itemIds": ["rarefied-larch-log", "rarefied-larch-sap"]
+      },
+      {
+        "id": "the-ruby-sea-14",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Ruby Sea",
+        "zoneFr": "Mer de Rubis",
+        "zoneDe": "Rubinsee",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 5.9,
+          "y": 15.7
+        },
+        "startTime": "14:00",
+        "endTime": "16:00",
+        "itemIds": ["rarefied-larch-log", "rarefied-larch-sap"]
+      },
+      {
+        "id": "il-mheg-10",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Il Mheg",
+        "zoneFr": "Il Mheg",
+        "zoneDe": "Il Mheg",
+        "teleport": "Lydha Lran",
+        "teleportFr": "Lydha Lran",
+        "teleportDe": "Lydha Lran",
+        "position": {
+          "x": 4,
+          "y": 23.1
+        },
+        "startTime": "10:00",
+        "endTime": "12:00",
+        "itemIds": ["rarefied-miracle-apple-log", "rarefied-pixie-apple"]
+      },
+      {
+        "id": "il-mheg-22",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Il Mheg",
+        "zoneFr": "Il Mheg",
+        "zoneDe": "Il Mheg",
+        "teleport": "Lydha Lran",
+        "teleportFr": "Lydha Lran",
+        "teleportDe": "Lydha Lran",
+        "position": {
+          "x": 4,
+          "y": 23.1
+        },
+        "startTime": "22:00",
+        "endTime": "0:00",
+        "itemIds": ["rarefied-miracle-apple-log", "rarefied-pixie-apple"]
+      },
+      {
+        "id": "amh-araeng-unknown-botany",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Amh Araeng",
+        "zoneFr": "Amh Araeng",
+        "zoneDe": "Amh Araeng",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 29,
+          "y": 23
+        },
+        "startTime": "0:00",
+        "endTime": "2:00",
+        "itemIds": ["rarefied-night-pepper"]
+      },
+      {
+        "id": "yanxia-0",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Yanxia",
+        "zoneFr": "Yanxia",
+        "zoneDe": "Yanxia",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 18.6,
+          "y": 14.3
+        },
+        "startTime": "0:00",
+        "endTime": "2:00",
+        "itemIds": ["rarefied-pine-log", "rarefied-pine-resin"]
+      },
+      {
+        "id": "yanxia-12",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Yanxia",
+        "zoneFr": "Yanxia",
+        "zoneDe": "Yanxia",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 18.6,
+          "y": 14.3
+        },
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "itemIds": ["rarefied-pine-log", "rarefied-pine-resin"]
+      },
+      {
+        "id": "coerthas-western-highlands-unknown",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Coerthas Western Highlands",
+        "zoneFr": "Coerthas occidental",
+        "zoneDe": "Westliches Hochland von Coerthas",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 26,
+          "y": 12
+        },
+        "startTime": "0:00",
+        "endTime": "2:00",
+        "itemIds": ["rarefied-rainbow-cotton-boll"]
+      },
+      {
+        "id": "the-peaks-0",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Peaks",
+        "zoneFr": "",
+        "zoneDe": "",
+        "teleport": "Ala Gannha",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 30.5,
+          "y": 6.8
+        },
+        "startTime": "0:00",
+        "endTime": "2:00",
+        "itemIds": ["rarefied-urunday-log"]
+      },
+      {
+        "id": "the-peaks-12",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "The Peaks",
+        "zoneFr": "",
+        "zoneDe": "",
+        "teleport": "Ala Gannha",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 30.5,
+          "y": 6.8
+        },
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "itemIds": ["rarefied-urunday-log"]
+      },
+      {
+        "id": "kholusia-8",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "",
+        "zoneFr": "",
+        "zoneDe": "",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 27.8,
+          "y": 32.7
+        },
+        "startTime": "8:00",
+        "endTime": "10:00",
+        "itemIds": ["rarefied-white-oak-log"]
+      },
+      {
+        "id": "kholusia-20",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "",
+        "zoneFr": "",
+        "zoneDe": "",
+        "teleport": "unknown",
+        "teleportFr": "unknown",
+        "teleportDe": "unknown",
+        "position": {
+          "x": 27.8,
+          "y": 32.7
+        },
+        "startTime": "20:00",
+        "endTime": "22:00",
+        "itemIds": ["rarefied-white-oak-log"]
+      },
+      {
+        "id": "garlemald-4",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Garlemald",
+        "zoneFr": "Garlemald",
+        "zoneDe": "Garlemald",
+        "teleport": "Tertium",
+        "teleportFr": "Tertium",
+        "teleportDe": "Tertium",
+        "position": {
+          "x": 35.0,
+          "y": 5.8
+        },
+        "startTime": "4:00",
+        "endTime": "6:00",
+        "itemIds": ["rarefied-red-pine-log"]
+      },
+      {
+        "id": "garlemald-16",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Garlemald",
+        "zoneFr": "Garlemald",
+        "zoneDe": "Garlemald",
+        "teleport": "Tertium",
+        "teleportFr": "Tertium",
+        "teleportDe": "Tertium",
+        "position": {
+          "x": 35.0,
+          "y": 5.8
+        },
+        "startTime": "16:00",
+        "endTime": "18:00",
+        "itemIds": ["rarefied-red-pine-log"]
+      },
+      {
+        "id": "elpis-10",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Elpis",
+        "zoneFr": "Elpis",
+        "zoneDe": "Elpis",
+        "teleport": "The Twelve Wonders",
+        "teleportFr": "The Twelve Wonders",
+        "teleportDe": "The Twelve Wonders",
+        "position": {
+          "x": 8.3,
+          "y": 36.4
+        },
+        "startTime": "10:00",
+        "endTime": "12:00",
+        "itemIds": ["rarefied-annite", "rarefied-blue-zircon"]
+      },
+      {
+        "id": "elpis-22",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Elpis",
+        "zoneFr": "Elpis",
+        "zoneDe": "Elpis",
+        "teleport": "The Twelve Wonders",
+        "teleportFr": "The Twelve Wonders",
+        "teleportDe": "The Twelve Wonders",
+        "position": {
+          "x": 8.3,
+          "y": 36.4
+        },
+        "startTime": "22:00",
+        "endTime": "0:00",
+        "itemIds": ["rarefied-annite", "rarefied-blue-zircon"]
+      },
+      {
+        "id": "labyrinthos-12",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Labyrinthos",
+        "zoneFr": "Labyrinthos",
+        "zoneDe": "Labyrinthos",
+        "teleport": "The Archeion",
+        "teleportFr": "The Archeion",
+        "teleportDe": "The Archeion",
+        "position": {
+          "x": 32.5,
+          "y": 21.2
+        },
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "itemIds": ["rarefied-sharlayan-rock-salt", "rarefied-raw-ametrine"]
+      },
+      {
+        "id": "labyrinthos-0",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Labyrinthos",
+        "zoneFr": "Labyrinthos",
+        "zoneDe": "Labyrinthos",
+        "teleport": "The Archeion",
+        "teleportFr": "The Archeion",
+        "teleportDe": "The Archeion",
+        "position": {
+          "x": 32.5,
+          "y": 21.2
+        },
+        "startTime": "0:00",
+        "endTime": "2:00",
+        "itemIds": ["rarefied-sharlayan-rock-salt", "rarefied-raw-ametrine"]
+      },
+      {
+        "id": "garlemald-2",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Garlemald",
+        "zoneFr": "Garlemald",
+        "zoneDe": "Garlemald",
+        "teleport": "Camp Broken Glass",
+        "teleportFr": "Camp Broken Glass",
+        "teleportDe": "Camp Broken Glass",
+        "position": {
+          "x": 12.6,
+          "y": 21.8
+        },
+        "startTime": "2:00",
+        "endTime": "4:00",
+        "itemIds": ["rarefied-phrygian-ore", "rarefied-eblan-alumen"]
+      },
+      {
+        "id": "garlemald-14",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Garlemald",
+        "zoneFr": "Garlemald",
+        "zoneDe": "Garlemald",
+        "teleport": "Camp Broken Glass",
+        "teleportFr": "Camp Broken Glass",
+        "teleportDe": "Camp Broken Glass",
+        "position": {
+          "x": 12.6,
+          "y": 21.8
+        },
+        "startTime": "14:00",
+        "endTime": "16:00",
+        "itemIds": ["rarefied-phrygian-ore", "rarefied-eblan-alumen"]
+      },
+      {
+        "id": "thavnair-4",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Thavnair",
+        "zoneFr": "Thavnair",
+        "zoneDe": "Thavnair",
+        "teleport": "Palaka's Stand",
+        "teleportFr": "Palaka's Stand",
+        "teleportDe": "Palaka's Stand",
+        "position": {
+          "x": 32.4,
+          "y": 24.6
+        },
+        "startTime": "4:00",
+        "endTime": "6:00",
+        "itemIds": ["rarefied-pewter-ore"]
+      },
+      {
+        "id": "thavnair-16",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Thavnair",
+        "zoneFr": "Thavnair",
+        "zoneDe": "Thavnair",
+        "teleport": "Palaka's Stand",
+        "teleportFr": "Palaka's Stand",
+        "teleportDe": "Palaka's Stand",
+        "position": {
+          "x": 32.4,
+          "y": 24.6
+        },
+        "startTime": "16:00",
+        "endTime": "18:00",
+        "itemIds": ["rarefied-pewter-ore"]
+      },
+      {
+        "id": "mare-lamentorum-6",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Mare Lamentorum",
+        "zoneFr": "Mare Lamentorum",
+        "zoneDe": "Mare Lamentorum",
+        "teleport": "Sinus Lacrimarum",
+        "teleportFr": "Sinus Lacrimarum",
+        "teleportDe": "Sinus Lacrimarum",
+        "position": {
+          "x": 16.2,
+          "y": 32.5
+        },
+        "startTime": "6:00",
+        "endTime": "8:00",
+        "itemIds": ["rarefied-bismuth-ore"]
+      },
+      {
+        "id": "mare-lamentorum-18",
+        "type": "mining",
+        "subType": "unspoiled",
+        "zone": "Mare Lamentorum",
+        "zoneFr": "Mare Lamentorum",
+        "zoneDe": "Mare Lamentorum",
+        "teleport": "Sinus Lacrimarum",
+        "teleportFr": "Sinus Lacrimarum",
+        "teleportDe": "Sinus Lacrimarum",
+        "position": {
+          "x": 16.2,
+          "y": 32.5
+        },
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "itemIds": ["rarefied-bismuth-ore"]
+      },
+      {
+        "id": "ultima-thule-8",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Ultima Thule",
+        "zoneFr": "Ultima Thule",
+        "zoneDe": "Ultima Thule",
+        "teleport": "Reah Tahra",
+        "teleportFr": "Reah Tahra",
+        "teleportDe": "Reah Tahra",
+        "position": {
+          "x": 9.3,
+          "y": 33
+        },
+        "startTime": "8:00",
+        "endTime": "10:00",
+        "itemIds": ["rarefied-ar-caean-cotton-boll"]
+      },
+      {
+        "id": "ultima-thule-20",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Ultima Thule",
+        "zoneFr": "Ultima Thule",
+        "zoneDe": "Ultima Thule",
+        "teleport": "Reah Tahra",
+        "teleportFr": "Reah Tahra",
+        "teleportDe": "Reah Tahra",
+        "position": {
+          "x": 9.3,
+          "y": 33
+        },
+        "startTime": "20:00",
+        "endTime": "22:00",
+        "itemIds": ["rarefied-ar-caean-cotton-boll"]
+      },
+      {
+        "id": "elpis-0",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Elpis",
+        "zoneFr": "Elpis",
+        "zoneDe": "Elpis",
+        "teleport": "Poieten Oikos",
+        "teleportFr": "Poieten Oikos",
+        "teleportDe": "Poieten Oikos",
+        "position": {
+          "x": 24.9,
+          "y": 5.6
+        },
+        "startTime": "0:00",
+        "endTime": "2:00",
+        "itemIds": ["rarefied-sykon", "rarefied-elder-nutmeg"]
+      },
+      {
+        "id": "elpis-12",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Elpis",
+        "zoneFr": "Elpis",
+        "zoneDe": "Elpis",
+        "teleport": "Poieten Oikos",
+        "teleportFr": "Poieten Oikos",
+        "teleportDe": "Poieten Oikos",
+        "position": {
+          "x": 24.9,
+          "y": 5.6
+        },
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "itemIds": ["rarefied-sykon", "rarefied-elder-nutmeg"]
+      },
+      {
+        "id": "labyrinthos-6",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Labyrinthos",
+        "zoneFr": "Labyrinthos",
+        "zoneDe": "Labyrinthos",
+        "teleport": "Aporia",
+        "teleportFr": "Aporia",
+        "teleportDe": "Aporia",
+        "position": {
+          "x": 9.7,
+          "y": 22.2
+        },
+        "startTime": "6:00",
+        "endTime": "8:00",
+        "itemIds": ["rarefied-dark-rye", "rarefied-iceberg-lettuce"]
+      },
+      {
+        "id": "labyrinthos-18",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Labyrinthos",
+        "zoneFr": "Labyrinthos",
+        "zoneDe": "Labyrinthos",
+        "teleport": "Aporia",
+        "teleportFr": "Aporia",
+        "teleportDe": "Aporia",
+        "position": {
+          "x": 9.7,
+          "y": 22.2
+        },
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "itemIds": ["rarefied-dark-rye", "rarefied-iceberg-lettuce"]
+      },
+      {
+        "id": "thavnair-2",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Thavnair",
+        "zoneFr": "Thavnair",
+        "zoneDe": "Thavnair",
+        "teleport": "The Great Work",
+        "teleportFr": "The Great Work",
+        "teleportDe": "The Great Work",
+        "position": {
+          "x": 14.3,
+          "y": 14.5
+        },
+        "startTime": "2:00",
+        "endTime": "4:00",
+        "itemIds": ["rarefied-coconut", "rarefied-palm-log"]
+      },
+      {
+        "id": "thavnair-14",
+        "type": "botany",
+        "subType": "unspoiled",
+        "zone": "Thavnair",
+        "zoneFr": "Thavnair",
+        "zoneDe": "Thavnair",
+        "teleport": "The Great Work",
+        "teleportFr": "The Great Work",
+        "teleportDe": "The Great Work",
+        "position": {
+          "x": 14.3,
+          "y": 14.5
+        },
+        "startTime": "14:00",
+        "endTime": "16:00",
+        "itemIds": ["rarefied-coconut", "rarefied-palm-log"]
+      },
+      {
+        "id": "garlemald-0",
+        "type": "mining",
+        "subType": "legendary",
+        "zone": "Garlemald",
+        "zoneFr": "Garlemald",
+        "zoneDe": "Garlemald",
+        "teleport": "Camp Broken Glass",
+        "teleportFr": "Camp Broken Glass",
+        "teleportDe": "Camp Broken Glass",
+        "position": {
+          "x": 32,
+          "y": 34.8
+        },
+        "startTime": "0:00",
+        "endTime": "2:00",
+        "itemIds": ["rime-dolomite", "stonehard-water", "raw-eblan-danburite"]
+      },
+      {
+        "id": "garlemald-12",
+        "type": "mining",
+        "subType": "legendary",
+        "zone": "Garlemald",
+        "zoneFr": "Garlemald",
+        "zoneDe": "Garlemald",
+        "teleport": "Camp Broken Glass",
+        "teleportFr": "Camp Broken Glass",
+        "teleportDe": "Camp Broken Glass",
+        "position": {
+          "x": 32,
+          "y": 34.8
+        },
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "itemIds": ["rime-dolomite", "stonehard-water", "raw-eblan-danburite"]
+      },
+      {
+        "id": "elpis-4",
+        "type": "mining",
+        "subType": "legendary",
+        "zone": "Elpis",
+        "zoneFr": "Elpis",
+        "zoneDe": "Elpis",
+        "teleport": "Poieten Oikos",
+        "teleportFr": "Poieten Oikos",
+        "teleportDe": "Poieten Oikos",
+        "position": {
+          "x": 13.6,
+          "y": 7.2
+        },
+        "startTime": "4:00",
+        "endTime": "6:00",
+        "itemIds": ["stonehard-water", "rhodium-sand"]
+      },
+      {
+        "id": "elpis-16",
+        "type": "mining",
+        "subType": "legendary",
+        "zone": "Elpis",
+        "zoneFr": "Elpis",
+        "zoneDe": "Elpis",
+        "teleport": "Poieten Oikos",
+        "teleportFr": "Poieten Oikos",
+        "teleportDe": "Poieten Oikos",
+        "position": {
+          "x": 13.6,
+          "y": 7.2
+        },
+        "startTime": "16:00",
+        "endTime": "18:00",
+        "itemIds": ["stonehard-water", "rhodium-sand"]
+      },
+      {
+        "id": "mare-lamentorum-2",
+        "type": "mining",
+        "subType": "legendary",
+        "zone": "Mare Lamentorum",
+        "zoneFr": "Mare Lamentorum",
+        "zoneDe": "Mare Lamentorum",
+        "teleport": "Sinus Lacrimarum",
+        "teleportFr": "Sinus Lacrimarum",
+        "teleportDe": "Sinus Lacrimarum",
+        "position": {
+          "x": 10,
+          "y": 23.6
+        },
+        "startTime": "2:00",
+        "endTime": "4:00",
+        "itemIds": ["stonehard-water", "lunar-adamantite-ore"]
+      },
+      {
+        "id": "mare-lamentorum-14",
+        "type": "mining",
+        "subType": "legendary",
+        "zone": "Mare Lamentorum",
+        "zoneFr": "Mare Lamentorum",
+        "zoneDe": "Mare Lamentorum",
+        "teleport": "Sinus Lacrimarum",
+        "teleportFr": "Sinus Lacrimarum",
+        "teleportDe": "Sinus Lacrimarum",
+        "position": {
+          "x": 10,
+          "y": 23.6
+        },
+        "startTime": "14:00",
+        "endTime": "16:00",
+        "itemIds": ["stonehard-water", "lunar-adamantite-ore"]
+      },
+      {
+        "id": "ultima-thule-10",
+        "type": "botany",
+        "subType": "legendary",
+        "zone": "Ultima Thule",
+        "zoneFr": "Ultima Thule",
+        "zoneDe": "Ultima Thule",
+        "teleport": "Abode of the Ea",
+        "teleportFr": "Abode of the Ea",
+        "teleportDe": "Abode of the Ea",
+        "position": {
+          "x": 28,
+          "y": 13
+        },
+        "startTime": "10:00",
+        "endTime": "12:00",
+        "itemIds": ["potent-spice", "double-edged-herb"]
+      },
+      {
+        "id": "ultima-thule-22",
+        "type": "botany",
+        "subType": "legendary",
+        "zone": "Ultima Thule",
+        "zoneFr": "Ultima Thule",
+        "zoneDe": "Ultima Thule",
+        "teleport": "Abode of the Ea",
+        "teleportFr": "Abode of the Ea",
+        "teleportDe": "Abode of the Ea",
+        "position": {
+          "x": 28,
+          "y": 13
+        },
+        "startTime": "22:00",
+        "endTime": "0:00",
+        "itemIds": ["potent-spice", "double-edged-herb"]
+      },
+      {
+        "id": "thavnair-8",
+        "type": "botany",
+        "subType": "legendary",
+        "zone": "Thavnair",
+        "zoneFr": "Thavnair",
+        "zoneDe": "Thavnair",
+        "teleport": "Palaka's Stand",
+        "teleportFr": "Palaka's Stand",
+        "teleportDe": "Palaka's Stand",
+        "position": {
+          "x": 25.4,
+          "y": 21.4
+        },
+        "startTime": "8:00",
+        "endTime": "10:00",
+        "itemIds": ["potent-spice", "golden-cocoon", "thavnairian-corn"]
+      },
+      {
+        "id": "thavnair-20",
+        "type": "botany",
+        "subType": "legendary",
+        "zone": "Thavnair",
+        "zoneFr": "Thavnair",
+        "zoneDe": "Thavnair",
+        "teleport": "Palaka's Stand",
+        "teleportFr": "Palaka's Stand",
+        "teleportDe": "Palaka's Stand",
+        "position": {
+          "x": 25.4,
+          "y": 21.4
+        },
+        "startTime": "20:00",
+        "endTime": "22:00",
+        "itemIds": ["potent-spice", "golden-cocoon", "thavnairian-corn"]
+      },
+      {
+        "id": "elpis-6",
+        "type": "botany",
+        "subType": "legendary",
+        "zone": "Elpis",
+        "zoneFr": "Elpis",
+        "zoneDe": "Elpis",
+        "teleport": "Anagnorisis",
+        "teleportFr": "Anagnorisis",
+        "teleportDe": "Anagnorisis",
+        "position": {
+          "x": 33,
+          "y": 15
+        },
+        "startTime": "6:00",
+        "endTime": "8:00",
+        "itemIds": ["potent-spice", "mempisang-log"]
+      },
+      {
+        "id": "elpis-18",
+        "type": "botany",
+        "subType": "legendary",
+        "zone": "Elpis",
+        "zoneFr": "Elpis",
+        "zoneDe": "Elpis",
+        "teleport": "Anagnorisis",
+        "teleportFr": "Anagnorisis",
+        "teleportDe": "Anagnorisis",
+        "position": {
+          "x": 33,
+          "y": 15
+        },
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "itemIds": ["potent-spice", "mempisang-log"]
+      }
+    ]
+  }
