@@ -33,19 +33,35 @@ body{
     position: sticky;
 }
 
+.node-image {grid-area: node-image}
+.node-name {grid-area: node-name}
+.node-time {grid-area: node-time}
+.node-location {grid-area: node-location}
+.node-teleport {grid-area: node-teleport}
+
 .saved-node{
+    display: grid;
     color: aliceblue;
     background-color: rgb(36, 36, 36);
     border: 2px black solid;
     border-radius: 2%;
     margin: 4rem;
     padding: 2rem;
+
+    grid-template:  "node-image node-name"
+                    "node-image node-level"
+                    "node-time node-time"
+                    "node-location node-location"
+                    "node-teleport node-teleport"
+                    
 }
 
 #saved-node-container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
+
+
 
 #node-table-container{
     display: flex;

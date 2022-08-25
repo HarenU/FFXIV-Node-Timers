@@ -122,11 +122,12 @@ $(document).ready(function () {
 
 
         entry += '<div class="saved-node">'
+        entry += `<div class="node-image"><img src="./items/${element.item.imageUrl}">  </div>`
         entry += `<div class="node-name"> Name: ${element.item.name} </div>`
         entry += `<div class="node-level"> Level: ${element.item.level} </div>`
         entry += `<div class="node-time">  Time: <span class="node-start-time">${element.node.startTime}</span> - <span class="node-end-time">${element.node.endTime}</span></div>`
         entry += `<div class="node-location"> Location: ${element.node.zone} || Position: X:${element.node.position.x} Y:${element.node.position.y}</div>`
-        entry += `<div class="node-location"> Closest: ${element.node.teleport}</div>`
+        entry += `<div class="node-teleport"> Closest: ${element.node.teleport} <img src="./img/aetheryte.png"></div>`
         entry += `<div class="node-ID">${element.node.id}</div>`
         entry += `<div class="item-ID">${element.item.id}</div>`
         entry += '</div>'
@@ -299,6 +300,7 @@ function updateSavedColour() {
 }
 
 setInterval(updateSavedColour, 2916);
+setInterval(updateTimer, 1000)
 
 // Display Item Infomation when clicking on grid
 
@@ -307,3 +309,18 @@ $('#saved-node-container').on('click', function (e) {
     console.log($(e.target).closest('.saved-node').find(".item-ID").html());
 
 })
+
+// Show countdown time untill node pops
+
+function updateTimer() {
+    var startTime
+    var endTime
+    var eorzeaTime = $('#e-time').html()
+    console.log(eorzeaTime);
+    $(".saved-node").each(function () {
+        startTime = Number($(this).find(".node-start-time").html())
+        endTime = Number($(this).find(".node-end-time").html())
+
+
+    });
+}
