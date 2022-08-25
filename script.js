@@ -43,7 +43,7 @@ function filterById(jsonObject, id) { return jsonObject.filter(function (jsonObj
 var item
 
 $(document).ready(function () {
-    getItemIDList()
+
     var item
     //Loading in Item data
     $.getJSON("https://harenu.github.io/FFXIV-Node-Timers/data/items.json", function (data) {
@@ -98,7 +98,7 @@ $(document).ready(function () {
         });
 
         $('#node-table').append(entry)
-
+        getItemIDList()
         tableColourSet()
         updateSavedColour()
         console.log("loaded");
