@@ -46,10 +46,10 @@ $(document).ready(function () {
     getItemIDList()
     var item
     //Loading in Item data
-    $.getJSON("./data/items.json", function (data) {
+    $.getJSON("https://harenu.github.io/FFXIV-Node-Timers/data/items.json", function (data) {
         item = data
     })
-    $.getJSON("./data/nodes.json", function (data) {
+    $.getJSON("https://harenu.github.io/FFXIV-Node-Timers/data/nodes.json", function (data) {
         // console.log(data.nodes);
 
         var entry = '';
