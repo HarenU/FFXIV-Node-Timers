@@ -48,11 +48,8 @@ $(document).ready(function () {
     //Loading in Item data
     $.getJSON("https://harenu.github.io/FFXIV-Node-Timers/data/items.json", function (data) {
         item = data
-        console.log("test");
-        console.log(data.items);
     })
     $.getJSON("https://harenu.github.io/FFXIV-Node-Timers/data/nodes.json", function (data) {
-        console.log(data.nodes);
         var entry = '';
         $.each(data.nodes, function (key, value) {
 
@@ -152,12 +149,12 @@ $('#node-table').on('click', function (e) {
     var selectedNode
 
 
-    $.getJSON("items.json", function (data) {
+    $.getJSON("https://harenu.github.io/FFXIV-Node-Timers/data/items.json", function (data) {
         for (let i = 0; i < data.items.length; i++) {
             var element = data.items[i];
             if (savedItem == element.id) {
                 selectedItem = element;
-                $.getJSON("nodes.json", function (data) {
+                $.getJSON("https://harenu.github.io/FFXIV-Node-Timers/data/nodes.json", function (data) {
                     for (let i = 0; i < data.nodes.length; i++) {
                         var element = data.nodes[i];
                         if (savedNode == element.id) {
