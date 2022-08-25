@@ -58,7 +58,7 @@ $(document).ready(function () {
 
                 entry += '<tr class="node-data-row">'
                 entry += '<td class="type">' +
-                    value.type + '</td>'
+                    `<img src="./img/${value.type}.png" height=35>` + '</td>'
 
                 entry += '<td class="item-name">' +
                     selectedItem.name + '</td>'
