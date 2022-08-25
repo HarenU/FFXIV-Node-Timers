@@ -48,6 +48,7 @@ $(document).ready(function () {
     //Loading in Item data
     $.getJSON("https://harenu.github.io/FFXIV-Node-Timers/data/items.json", function (data) {
         item = data
+        console.log("test");
         console.log(data.items);
     })
     $.getJSON("https://harenu.github.io/FFXIV-Node-Timers/data/nodes.json", function (data) {
