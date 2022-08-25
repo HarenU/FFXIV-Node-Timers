@@ -137,9 +137,7 @@ $(document).ready(function () {
     $('#saved-node-container').append(entry)
 })
 
-$('#node-table > tbody > tr').each(function () {
-    console.log("hi");
-})
+
 
 // Save Data by clicking on row
 // TODO: unspaghettify this
@@ -290,7 +288,6 @@ function updateSavedColour() {
     var startTime
     var endTime
     var eorzeaTime = Number($('#e-time').html().replace(':', ''))
-    console.log("hi");
     $(".saved-node").each(function () {
         startTime = Number($(this).find(".node-start-time").html().replace(':', ''))
         endTime = Number($(this).find(".node-end-time").html().replace(':', ''))
