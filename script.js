@@ -46,10 +46,10 @@ $(document).ready(function () {
     getItemIDList()
     var item
     //Loading in Item data
-    $.getJSON("items.json", function (data) {
+    $.getJSON("./data/items.json", function (data) {
         item = data
     })
-    $.getJSON("nodes.json", function (data) {
+    $.getJSON("./data/nodes.json", function (data) {
         // console.log(data.nodes);
 
         var entry = '';
